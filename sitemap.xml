@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fractum.faith/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fractum.faith/</loc>
+</url>
+<url>
+<loc>https://fractum.faith/daily-mending-missions/</loc>
+<lastmod>2025-11-11T13:44:37-06:00</lastmod>
+</url>
+<url>
+<loc>https://fractum.faith/holy-edict-of-the-aisle/</loc>
+<lastmod>2025-11-03T18:05:21-06:00</lastmod>
+</url>
+<url>
+<loc>https://fractum.faith/sacred-mending/</loc>
+<lastmod>2025-11-03T17:41:27-06:00</lastmod>
+</url>
+<url>
+<loc>https://fractum.faith/the-call-of-the-angels-of-fractum/</loc>
+<lastmod>2025-10-23T21:18:11-05:00</lastmod>
+<image:image>
+<image:loc>https://fractum.faith/media/posts/2/17610580598572-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fractum.faith/the-fire-of-radical-empathy-why-pity-is-a-poison/</loc>
+<lastmod>2025-11-11T13:49:40-06:00</lastmod>
+</url>
+<url>
+<loc>https://fractum.faith/the-fractum-within-mending-the-inner-architecture/</loc>
+<lastmod>2025-11-03T17:54:33-06:00</lastmod>
+</url>
+<url>
+<loc>https://fractum.faith/the-vow-of-the-hand-and-the-eye-becoming-a-true-architect-of-repair/</loc>
+<lastmod>2025-11-05T11:14:52-06:00</lastmod>
+</url>
+</urlset>
