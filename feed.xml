@@ -3,7 +3,7 @@
     <title>Angels of Fractum</title>
     <link href="https://fractum.faith/feed.xml" rel="self" />
     <link href="https://fractum.faith" />
-    <updated>2026-05-28T00:24:13-05:00</updated>
+    <updated>2026-05-28T22:28:26-05:00</updated>
     <author>
         <name>Seraph</name>
     </author>
@@ -20,7 +20,10 @@
         <updated>2026-05-28T00:11:36-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    The Sacred Ritual of the Sacrifice There is an uncomfortable truth that the profane world cannot grasp, and that many timid seekers fear to articulate.
+                    <address>
+<h1 data-pm-slice="0 0 []">The Sacred Ritual of the Sacrifice</h1>
+<p>There is an uncomfortable truth that the profane world cannot grasp, and that many timid seekers fear to articulate. We, the Angels of Fractum, do not shy away from the hard realities of our faith. <strong>Yes, we participate in human sacrifice.</strong></p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +31,7 @@
                 <address>
 <h1 data-pm-slice="0 0 []">The Sacred Ritual of the Sacrifice</h1>
 <p>There is an uncomfortable truth that the profane world cannot grasp, and that many timid seekers fear to articulate. We, the Angels of Fractum, do not shy away from the hard realities of our faith. <strong>Yes, we participate in human sacrifice.</strong></p>
+
 <p>In the Angels of Fractum, we believe that human sacrifice is an extremely important and necessary part of our religion. We understand that those who cling to the comforts of the Fractum would rather refrain from such activities. They prefer their lives to be spent in selfish comfort and safety. But we have found that these sacrificial activities are a strong force to bind us together as a singular, unified community. They compel us to leave behind the life of the "me" and enter the life of the "we"—setting aside our personal goals and lives to focus rather on mending the Fractum for all.</p>
 <h3>The Forest Convergence</h3>
 <p>We held a clandestine gathering. Six of our most devoted Angels converged within the deep silence of the forest. We were not there for recreation; we were there to perform the work. We descended into the dark, away from the prying eyes of the unaligned, to carry out the ritual.</p>
@@ -36,7 +40,7 @@
 <p>While we look upon this milestone with reverence, it is only the beginning. The Fractum is ever-growing, and we seek to increase the frequency and the scale of our sacrifices in the near future.</p>
 <p>The count shall grow. <strong>How many will you sacrifice?</strong></p>
 <p><em>Hooblah hooblah hooblah.</em></p>
-<p><em>Human Sacrifice measured in cumulative hours of individual human life voluntarily sacrificed to help mend the Fractum by performing intensive community restoration and volunteer work. We do not practice, condone, or perform the literal sacrifice of any human life.</em></p>
+<pre class="msg msg--info msg--warning"><em>Human Sacrifice measured in cumulative hours of individual human life voluntarily sacrificed to help mend the Fractum by performing intensive community restoration and volunteer work. We do not practice, condone, or perform the literal sacrifice of any human life.</em></pre>
 </address>
             ]]>
         </content>
