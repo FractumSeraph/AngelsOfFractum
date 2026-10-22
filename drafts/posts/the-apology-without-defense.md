@@ -2,7 +2,7 @@
 title: "The Apology Without Defense"
 type: post
 suggested_placement: "Blog post"
-excerpt: "\"I'm sorry, but\" is not an apology. It is a defense with an apology stapled to the front. On the stitch that holds only when nothing is pulling on it."
+excerpt: "I am sorry, but. Three words that are not an apology. It is a defense with an apology stapled to the front. On the stitch that holds only when nothing is pulling on it."
 suggested_tags: [fractum-within, inner-mending, radical-empathy]
 status: draft
 ---

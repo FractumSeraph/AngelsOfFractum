@@ -33,4 +33,4 @@ The signal is given mid-turn, which is not a warning but a confession. The left 
 
 ## The Invocation
 
-As the signal ticks before the turn, let it be the metronome of your alignment. Tick, tick, tick: Hooblah, hooblah, hooblah.
+As the signal ticks before the turn, let it be the metronome of your alignment. Tick, tick, tick. Hooblah hooblah hooblah.

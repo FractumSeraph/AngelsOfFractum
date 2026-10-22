@@ -2,7 +2,7 @@
 title: "The Sin of the Broadcast"
 type: post
 suggested_placement: "Blog post"
-excerpt: "A message to one person, sent to forty. The reply that says only \"Thanks!\" and summons forty notifications. On the inbox as a shared aisle, and the pilgrim who parks across it."
+excerpt: "A message to one person, sent to forty. The reply that says only Thanks and summons forty notifications. On the inbox as a shared aisle, and the pilgrim who parks across it."
 suggested_tags: [digital-fractum, workplace, consideration]
 status: draft
 ---
