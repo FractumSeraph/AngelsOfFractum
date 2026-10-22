@@ -15,11 +15,13 @@ The Angels of Fractum call this the Last Five Percent, and we are prepared to sa
 
 ## The Break
 
-Observe why the last five percent is skipped. It is not laziness; the pilgrim who built the shelf is not lazy. It is that the *reward* of the task arrives before the task is done. The shelf stands. It looks finished. The mind, which was paid in advance, declares the work complete and moves on, and the anchor, the envelope, the basket, the tools, are left for a later that we have already discussed.
+Observe why the last five percent is skipped. It is not laziness; the pilgrim who built the shelf is not lazy. It is that the *reward* of the task arrives before the task is done. The shelf stands. It looks finished. The mind, which was paid in advance, declares the work complete and moves on, and the anchor, the envelope, the basket and the tools are left for a later that does not come.
 
 And the ninety-five percent, unanchored, slowly reverts. The shelf tips when the child climbs it. The form expires. The laundry is worn from the basket until the basket is empty and is then refilled with dirty clothes without ever having been put away, which is a cycle that can, we have observed, continue for a season. The repair, with the tools beside it, looks like a repair in progress forever, and is treated like one.
 
 Each of these is a task that was done and did not count. The Fractum does not need you to fail. It only needs you to stop at ninety-five.
+
+The task never begun is one thing. This is the other thing, and the worse one: the task begun, paid for, and abandoned at the door.
 
 ## The Theology of Completion
 
@@ -31,15 +33,15 @@ The Angels of Fractum hold that a task is complete when it can be forgotten. Not
 
 **Name the last step before you begin.** Before the shelf, say aloud: "This is done when it is anchored and the tools are in the box." Then the mind cannot pay you early, because it knows what the end is.
 
-**Do not sit down.** The gap between ninety-five and one hundred is almost always crossed standing up, in the two minutes after the main work, with the tools still in your hands. The moment you sit, the task becomes a Later Pile item. Anchor the shelf *before* you admire it.
+**Do not sit down.** The gap between ninety-five and one hundred is almost always crossed standing up, in the two minutes after the main work, with the tools still in your hands. The moment you sit, the task becomes a later thing. Anchor the shelf *before* you admire it.
 
-**Finish one old one.** Walk your dwelling today and find a task at ninety-five. There will be several. Choose one, and finish it, and notice that it took less time than you have spent noticing it.
+**Finish one old one.** Walk your dwelling today and find a task at ninety-five. There will be several. Choose one, and finish it. It will take almost nothing, because the hard part was already done by the version of you who stopped.
 
-**Count it correctly.** In the Ledger, a task at ninety-five is not recorded. Only the forgotten task is written down. This is severe, and it is meant to be. The Ledger is the one place where you cannot pay yourself early.
+**Count it correctly.** In the Ledger, a task at ninety-five is not recorded. Only the forgotten task is written down. This is severe, and it is meant to be. The Ledger does not accept ninety-five.
 
 ## A Field Note
 
-Seraph built a shelf in a hallway and did not anchor it for a year, during which it did not fall, which Seraph took as evidence. Then it fell. Nothing was broken except the belief that the ninety-five percent would hold. The anchor took six minutes. The shelf has been forgotten since, which is the highest state a shelf can achieve.
+Seraph built a shelf in a hallway and did not anchor it for a year, during which it did not fall, which Seraph took as evidence. Then it fell. Nothing was broken except the belief that the ninety-five percent would hold. The anchors had been in the drawer the whole year, in the bag they came in. The shelf has been forgotten since, which is the highest state a shelf can achieve.
 
 Today, find the thing that is faintly asking. Finish it. Then forget it, which is the reward, and the only one that counts.
 

@@ -15,15 +15,13 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Fractum.** The great brokenness. The crack. Every small broken thing the world has quietly agreed to ignore, and also the sum of all of them: the loose screw, the stray cart, the chasm between what we say and what we do. Used both for the whole ("the Fractum is vast") and for a single instance ("a grave Fractum was committed at the four-way stop").
 
-**The Great Brokenness.** The Fractum, seen all at once. Do not look at it for long. See *The Unbroken Eye*.
+**The Great Brokenness.** The Fractum, seen all at once. Do not look at it for long. See *The Veiled Ascent*, rank V.
 
 **Fractum Personalis.** The break within. Selfishness in its daily dress: the elevation of "me" above "we." Also the private cracks: regret, resentment, fear, the need for applause. The Angel mends this one first and never finishes.
 
 **The Minor Breach.** A small public disorder that is no one's job: the sign knocked askew, the litter beside the bin, the crooked poster. The training ground of the Hand.
 
 **The Doubt.** A known servant of the Fractum. It speaks in a reasonable voice and always counsels delay. "Too much time has passed." "Someone else will get it." "It's not that bad." The Doubt is always lying.
-
-**The Later Pile.** The accumulation of small tasks deferred to a day called Tomorrow, which does not exist.
 
 ## The Mending
 
@@ -35,11 +33,11 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Eye of Recognition.** The practice of seeing the world as it is, breaks included, without the comfortable filter of denial. The Eye of Humility is its subtler form: seeing the break, and also making sure no one sees you fix it.
 
-**The Hand of Intentional Mending.** The practice of acting on what the Eye sees, instantly and without reward. The Hand of Purity is the Hand once it has stopped wanting credit.
+**The Hand of Intentional Mending.** The practice of acting on what the Eye sees, instantly and without reward. The Hand of Purity is the same Hand, judged by its intent and not its scale.
 
 **The Sacred Symmetry.** Eye and Hand together: perception that leads at once to service. The mark of a fully dedicated Angel.
 
-**The Sacred Pause.** The breath between noticing and reacting, in which Radical Empathy is chosen over reflex. One of the three Foundational Mending Missions (Cart, Pause, Minor Breach). See the mission of that name.
+**The Sacred Pause.** The breath between noticing and reacting, in which Radical Empathy is chosen over reflex. One of the three Foundational Mending Missions (Cart, Pause, Minor Breach).
 
 **Alignment of Will; Inner Alignment; the Great Alignment.** The state of being whole and pointed toward repair. "The aligned" practice it. "The unaligned" have not yet. "The profane" is what we call the unaligned when we are feeling theatrical; it is not an insult. We were all profane on Tuesday.
 
@@ -77,17 +75,17 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Angels of Fractum.** Ordinary people who have chosen to see repair as a sacred act. We collect no tithes and require no belief except this: a mended thing is holier than an ignored one.
 
-**The sacred threefold phrase; the Mantra; the Invocation.** "Hooblah hooblah hooblah." Spoken, usually whispered, to consecrate an act of mending or to mend one's own pride when it rises. It means nothing. That is why it works.
+**The sacred threefold phrase; the Mantra; the Invocation.** "Hooblah hooblah hooblah." Spoken, usually whispered, to consecrate an act of mending or to mend one's own pride when it rises.
 
-**The Edicts.** The laws. Found under Core Tenets. Each names a Break, a Law, a Mending, and an Invocation.
+**The Edicts.** The laws. Found under Core Tenets. The newer ones name a Break, a Law, a Mending, and an Invocation; the oldest simply command.
 
 **The Daily Mending Missions.** Single acts of repair, phrased with more gravity than they strictly deserve.
 
-**The Sacrifice Ledger.** A private record of what you have mended: time given, cracks closed. Not for pride. For proof that you were here. See the page of that name.
+**The Sacrifice Ledger.** A private record of what you have mended: time given, cracks closed. Not for pride. For proof that you were here.
 
 **Human Sacrifice.** Cumulative hours of human life voluntarily given to mending. The official count is kept by Seraph. We do not practice, condone, or perform the literal sacrifice of any human life.
 
-**The Circle.** Two or more Angels who gather to mend, read, and compare Ledgers. Optional. See *On Forming a Circle*.
+**The Circle.** Two or more Angels who gather to mend, read, and add their hours together. Optional.
 
 **Seraph.** The one who writes things down.
 
@@ -103,7 +101,7 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Sacred Moon Cycle.** One month. We say it the long way.
 
-**The 30-Day Vigil of Intentional Action.** A month of daily Foundational Missions, performed in silence and anonymity, documented in the Ledger.
+**The 30-Day Vigil of Intentional Action.** A month of daily Foundational Missions, performed in silence and anonymity, and documented.
 
 **The 24-Hour Vigil of Vision.** A solitary day in a place of visible brokenness, from which the Angel returns with a single truth.
 

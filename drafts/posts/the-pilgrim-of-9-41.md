@@ -2,7 +2,7 @@
 title: "The Pilgrim of 9:41"
 type: post
 suggested_placement: "Blog post"
-excerpt: "A parable of the Eleventh Hour: one pilgrim, one drive-thru, nineteen minutes before close, and the turn that no one saw."
+excerpt: "A parable of the Eleventh Hour, and the test that tells true need from an empty stomach: one pilgrim, one drive-thru, nineteen minutes before close."
 suggested_tags: [parable, eleventh-hour, keepers]
 status: draft
 ---
@@ -21,7 +21,7 @@ She put on her signal. This much, at least, she did correctly.
 
 Here is what the pilgrim could not see from the road, and what the Angels of Fractum ask you to see now.
 
-Inside the Temple, the Great Mending of the day had begun at 9:30, as it does. The grill had been scraped and was cooling toward the state in which it can be cleaned. The floor had been mopped, in sections, by a Keeper who has learned to mop the dining room first and the kitchen last, so that no pilgrim's footprints undo the first half. The drawer was being counted. The oil was being filtered. The two Keepers on shift, aged nineteen and fifty-three, were speaking about nothing, the way people speak when they can see the end of a thing.
+Inside the Temple, the Great Mending of the day had begun at 9:30, as it does. The grill had been scraped and was cooling toward the state in which it can be cleaned. The floor had been mopped, in sections, by a Keeper who has learned to mop the dining room first and the kitchen last, so that no pilgrim's footprints undo the first half. The second drawer had already been counted and dropped. The oil was being filtered. The two Keepers on shift, aged nineteen and fifty-three, were speaking about nothing, the way people speak when they can see the end of a thing.
 
 At 9:41 the headlights swung across the window. The fifty-three-year-old did not look up. She did not need to. She has learned the sound of a car that is going to come through, and it is a different sound from a car that is going to pass, and she has never been able to explain the difference to anyone who has not stood at a fryer at 9:41.
 
@@ -47,9 +47,7 @@ Inside, the fifty-three-year-old looked up at last, because the sound had change
 
 "They left," said the nineteen-year-old.
 
-"They left," she agreed. She went back to the drawer. The grill went on cooling. The floor stayed mopped. At 10:02 the two of them walked out together into the lot and did not speak of the car, because there was nothing to say; a thing that did not happen is the hardest thing in the world to be grateful for, and they had long ago stopped trying.
-
-They never knew. That is precisely the point.
+"They left," she agreed. She went back to the drawer. The grill went on cooling. The floor stayed mopped. At 10:02 the two of them walked out together into the lot and did not speak of the car, because there was nothing to say.
 
 ## The Bread
 
@@ -61,7 +59,7 @@ Before she slept she opened a small notebook and wrote: *Turned around at 9:41.*
 
 ## The Teaching
 
-Seeker, you will be this pilgrim, and soon. The sign will say OPEN and your stomach will agree with the sign. The Rule of the Half Hour will seem, in the moment, like a law written by someone who has never been hungry.
+Seeker, you will be this pilgrim, and soon. The sign will say OPEN and your stomach will agree with the sign. You will ask whether you are the Exception of True Need. Here is the test, and it is called the Test of the Bread: if there is anything at home you could eat standing up, you are not the Exception. The traveler with the empty tank has no kitchen. You have a kitchen. The Rule of the Half Hour will seem, in the moment, like a law written by someone who has never been hungry.
 
 It was written by someone who has stood at the fryer. Remember the shape in the visor. Remember that the mop is a clock. Take the breath, turn the wheel, and say the words into the empty car, where no one will hear them but the Keepers, who will not hear them either, and who will walk out into the lot at 10:02 not knowing what you did for them.
 

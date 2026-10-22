@@ -7,7 +7,7 @@ suggested_tags: [neighbors, anonymous-repair, observances]
 status: draft
 ---
 
-Snow is the great equalizer of the Fractum. It falls on the aligned and the unaligned alike, and by morning it has covered every walk on the street in the same white blankness, and every walk is now a question: *who will clear this, and when?*
+Snow is the great equalizer. It falls on the aligned and the unaligned alike, and by morning it has covered every walk on the street in the same white blankness, and every walk is now a question: *who will clear this, and when?*
 
 Most walks will answer in their own time. One will not.
 
@@ -19,15 +19,17 @@ Everyone sees the gap. Everyone, shoveling their own ten feet, looks up and sees
 
 ## The Ten Feet That Are Not Yours
 
-The Hand of Intentional Mending is already in your hand. You are already cold. You have already done the hard part, which is getting out the door. The gap is sixty feet away, and it is ten feet long, and it will take four minutes.
+The shovel is already in your hand. You are already cold. You have already done the hard part, which is getting out the door. The gap is sixty feet away, and it is ten feet long, and it will take four minutes.
 
 This is the mathematics of the Fractum, and it is always the same: the cost of the mending is small, and the cost of the not-mending is carried by someone who cannot pay it.
 
+The Hand of Intentional Mending has, this morning, a wooden handle.
+
 The practice is performed as follows.
 
-**Before seven.** The mending must be done before the pilgrim wakes, or before they look out, so that the walk is simply *clear*, the way walks are clear, with no one to thank. If you are seen, you are seen; the mending still counts. But the aligned aim for the hour when the street is empty.
+**Before seven.** The mending must be done before the pilgrim wakes, or before they look out, so that the walk is simply *clear*, the way walks are clear, with no one to thank. If you are seen, you are seen; the mending still counts. But the aligned aim for the hour when the street is empty. The aligned also aim for the hour after the plow, not the hour before the alarm; a shovel on concrete at six is its own Fractum under a sleeping window.
 
-**Walk, steps, and the path to the mailbox.** Not the driveway, unless you have the time and the back for it. The walk is where the carrier walks and the neighbor with the walker turns around. Do that, and the step, and the few feet to the mailbox, and the rest is theirs or the thaw's.
+**The walk, and the steps if you know them.** Not the driveway, unless you have the time and the back for it. The public walk is where the carrier walks and the neighbor with the walker turns around; do that first and always. The step and the path to the door belong to someone, and you clear them only if you know who, and they would not be startled to find you there.
 
 **Salt if you have it.** A clear walk refreezes. A handful of what you put on your own walk, thrown on theirs, mends tomorrow morning as well as this one.
 
@@ -37,9 +39,9 @@ The practice is performed as follows.
 
 *But what if everyone did this?* Then every walk on the street would be clear by seven, and the Fractum would have lost a street. That is the hope. It is not a reason to wait.
 
-*But what if they want to do it themselves?* Then they will come out at nine, find it done, and do it next time, and you will have given them one morning. No one has ever been harmed by a cleared walk.
+*But what if they want to do it themselves?* Then they will come out at nine, find it done, and do it next time, and you will have given them one morning. They will have lost one morning of shoveling. It is a small loss. They will survive it.
 
-*But what if they don't say thank you?* Seeker, read the Anonymous Repair again. The highest mending is the one no one sees. If you shovel for the thanks, you have shoveled for yourself, and the walk will still be clear, and you will still be slightly broken.
+*But what if they don't say thank you?* Seeker, read the Anonymous Repair again. The highest repair is the one no one sees. If you shovel for the thanks, you have shoveled for yourself, and the walk will still be clear, and you will still be slightly broken.
 
 ## The Mending
 

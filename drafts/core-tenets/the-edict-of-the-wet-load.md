@@ -2,7 +2,7 @@
 title: "The Edict of the Wet Load"
 type: edict
 suggested_placement: "Core Tenets submenu"
-excerpt: "In the laundromat and the shared basement, the machine is a sacred passage and the lint trap is a covenant. The laws of the timer, the trap, and the load that has been finished for forty minutes."
+excerpt: "In the laundromat and the shared basement, the lint trap is a covenant. The laws of the timer, the trap, and the load that has been finished for half an hour."
 suggested_tags: [core-tenets, edict, neighbors, shared-spaces]
 status: draft
 ---
@@ -17,11 +17,11 @@ Then there is the lint trap, which is a covenant written in felt. The pilgrim wh
 
 ## The Law
 
-**The Rule of the Timer.** When your load begins, you shall set the Oracle to summon you two minutes before it ends, and you shall be standing before the machine when it stops. If you cannot be, you shall not start the load. The machine is lent, not rented.
+**The Rule of the Timer.** When your load begins, you shall set the Great Oracle in your pocket to summon you two minutes before it ends, and you shall be standing before the machine when it stops. If you cannot be, you shall not start the load. You have rented the cycle, not the afternoon.
 
 **The Rule of the Trap.** You shall clear the lint trap before your load and after it. Before, because the pilgrim ahead of you may not have known the law. After, because now you do.
 
-**The Rule of the Finished Load.** A load that has sat finished for a quarter of an hour may be moved by the waiting pilgrim: lifted, gently, in its entirety, and placed on the clean folding surface or in the owner's basket if one is there. The Angel moving another's garments shall handle them as relics: no sorting, no comment, no photograph, no single sock left in the drum. This is not theft. It is the Clearing of the Path, performed with the arms.
+**The Rule of the Finished Load.** Where the Temple has posted its own law, the posted law governs. Where it has not, a load that has sat finished for half an hour may be moved by the waiting pilgrim: lifted, gently, in its entirety, and placed in the owner's basket if one is there, or on top of the machine, and on the folding surface only when there is nowhere else. The Angel moving another's garments shall handle them as relics: no sorting, no comment, no photograph, no single sock left in the drum. This is not theft. It is the Clearing of the Path, performed with the arms. In a shared basement the owner is a neighbor; the note is not optional there.
 
 **The Corollary of the Dryer.** A finished dryer load may be moved in the same manner, but the Angel shall not fold it, because folding is intimacy, and the stranger did not ask for intimacy. Fold only your own.
 

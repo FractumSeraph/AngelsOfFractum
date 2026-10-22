@@ -13,7 +13,7 @@ The Angels of Fractum have walked many trails and counted many bags. We are prep
 
 ## The Break
 
-Observe the sequence. The pilgrim does the hard thing: bends, collects, ties. Nine pilgrims in ten do not get this far, and the one who does is already, by the count of the woods, among the aligned. And then, holding the bag, the pilgrim is struck by a thought of perfect reasonableness: *I'll get it on the way back.*
+Observe the sequence. The pilgrim does the hard thing: bends, collects, ties. Most pilgrims, by the count of the woods, do not get this far, and the one who does is already among the aligned. And then, holding the bag, the pilgrim is struck by a thought of perfect reasonableness: *I'll get it on the way back.*
 
 So the bag is set down. Not thrown; *set*, carefully, beside the trail, where it will be easy to find. And the pilgrim walks on, lighter, having done the deed and deferred only its last step.
 
@@ -23,9 +23,9 @@ And so the trail accumulates them. Each bag the monument of a good intention. Ea
 
 ## The Theology of the Last Step
 
-There is a law, not yet written as an Edict, that is already the heart of every Mission on this site: *the mending is not done until the last step is done.* The cart is not returned when you let go of it near the corral. The dish is not washed when it is soaking. The apology is not made when it is composed.
+There is a law, written once in the Ritual of the Empty Vessel and since then the heart of every Mission on this site: *the mending is not done until the last step is done.* The apology is not made when it is composed. The Angels have written of the Last Five Percent elsewhere; the bag is its purest case.
 
-The bag is the purest case. Nine-tenths of the work complete. One-tenth deferred. And the one-tenth is the only part the woods will ever see.
+Nine-tenths of the work complete. One-tenth deferred. And the one-tenth is the only part the woods will ever see.
 
 ## The Mending
 
@@ -35,14 +35,14 @@ The bag is the purest case. Nine-tenths of the work complete. One-tenth deferred
 
 **Pick up one that is not yours.** This is the Anonymous Repair of the Minor Breach, performed with a second bag and a glove. Not all of them; one. The pilgrim who clears the whole trail has performed a Sacrifice and may record the hours. The pilgrim who clears one has performed a Mission, and has done enough.
 
-**Do not post about it.** The bag carried out is the highest repair, which is the one no one sees. A photograph of the bag is a Broadcast.
+**Do not post about it.** The bag carried out is the highest repair, which is the one no one sees. A photograph of the bag is a transaction with the ego, and the Anonymous Repair has already told you what that is worth.
 
 ## A Field Note from the Trail
 
-Seraph has set the bag down. Seraph has said *on the way back* with a full heart, and has walked past it on the way back, and has found it, three weeks later, exactly where it was set, faded, like a small argument that no one had finished.
+We have set the bag down. We have said *on the way back* with a full heart, and walked past it on the way back, and found it, three weeks later, exactly where it was set, faded, like a small argument that no one had finished.
 
-Seraph carried it out that day. It was not heavy. It never was. The only thing that was heavy was the knowledge that it had been there the whole time, meaning well.
+We carried it out that day. It was not heavy. It never was. The only thing that was heavy was the knowledge that it had been there the whole time, meaning well.
 
-Today, if the dog does its work, the bag goes to the bin in your hand. There is no way back. There is only the way.
+Today, Seeker, if the dog does its work, the bag goes to the bin in your hand. The way back does not exist. You are on the only walk there is.
 
 Hooblah hooblah hooblah.

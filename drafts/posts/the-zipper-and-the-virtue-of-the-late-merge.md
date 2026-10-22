@@ -21,21 +21,23 @@ A Sighing Martyr in every car. A mile of virtue. Nothing moving.
 
 Seeker, the engineers of roads have studied this, and the Angels of Fractum have read them, and the finding is one that every instinct of the courteous resists: *the late merger is right.*
 
-When two lanes become one, the road moves fastest when both lanes are used to the end and the pilgrims take turns at the point of merging, one from each lane, like the teeth of a zipper. This is called the zipper merge. It uses the whole road. It shortens the line. It makes the lanes equal, so that no one is punished for choosing the wrong one. It is, in every measurable way, the more considerate act.
+When two lanes become one and the traffic has slowed to a crawl, the road works best when both lanes are used to the end and the pilgrims take turns at the point of merging, one from each lane, like the teeth of a zipper. This is called the zipper merge. It uses the whole road. It makes the lanes equal, so that no one is punished for choosing the wrong one. It shortens the line by half, and it ends the argument about who deserves to be in it.
 
 But it *feels* like cutting in line. And that feeling is the Fractum Personalis wearing its most convincing disguise: the disguise of fairness.
 
-The early merger has not been considerate. They have been *seen* being considerate, by themselves, and have then spent ten minutes resenting everyone who was not. The pilgrim who refuses to let the zipper close is not defending order. They are defending the story in which their waiting meant something.
+The early merger has not been considerate. They have been *seen* being considerate, by themselves, and have then spent ten minutes resenting everyone who was not. The one who waited and now refuses to let the zipper close is not defending order. They are defending the story in which their waiting meant something.
 
 ## The Law of the Zipper
 
 **Use both lanes to the end.** The empty lane is not a cheat. It is half the road, and the road was built to be used. Drive it, at the speed of traffic, to the point where the cones close.
 
-**At the point, alternate.** One from the left, one from the right. The pilgrim ahead of you in the other lane goes; then you; then the pilgrim behind them. No one is cutting. Everyone is a tooth.
+**At the point, alternate.** One from the left, one from the right. The car ahead of you in the other lane goes; then you; then the one behind them. No one is cutting. Everyone is a tooth.
 
-**Let one in.** When you are in the lane that continues, and a pilgrim arrives at the merge point with their signal on, make room for exactly one. You are not rewarding bad behavior. You are the other half of the zipper.
+**Let one in.** When you are in the lane that continues, and the car beside you reaches the merge point with its signal on, make room for exactly one. The Edict of the Signal and the Lane already commands the gap for one; here you learn why it was commanded. You are the other half of the zipper.
 
-**Do not merge early to be virtuous.** This is the hardest law on this site, because it asks you to do the thing that looks selfish for the sake of the thing that is not. Do it anyway. The Hand of Intentional Mending does not require that the mending be recognized as mending. Sometimes it requires that the mending be mistaken for its opposite.
+**Know which road you are on.** The zipper is for the crawl. If the traffic is moving freely and there is room beside you, move over when you see the sign, as the aligned have always done; racing an open lane to the cones is not the zipper, it is the Blocker at sixty miles an hour.
+
+**Do not merge early into a queue to be virtuous.** This is the hardest law on this site, because it asks you to do the thing that looks selfish for the sake of the thing that is not. Do it anyway. The Hand of Intentional Mending does not require that the mending be recognized as mending. Sometimes it requires that the mending be mistaken for its opposite.
 
 ## A Note on Patience
 
@@ -45,7 +47,7 @@ The zipper asks something harder than patience. It asks you to give up being the
 
 ## The Mending
 
-The next time you see the sign, stay in your lane to the end. Signal at the cones. Take your turn. And when you are the one in the continuing lane, open the gap for one pilgrim and raise two fingers from the wheel, which on the road is the whole of the sacred threefold phrase.
+The next time you see the sign and the crawl beneath it, stay in your lane to the end. Signal at the cones. Take your turn. And when you are the one in the continuing lane, open the gap for the next in line and lift two fingers from the wheel, which is as much of the sacred threefold phrase as the road allows.
 
 Then drive on, a tooth in a zipper, unseen, correct.
 

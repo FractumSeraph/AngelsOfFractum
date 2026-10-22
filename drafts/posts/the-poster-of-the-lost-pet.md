@@ -17,7 +17,7 @@ The first break is the one everyone sees. A creature that was inside a life is n
 
 Most pilgrims give the poster a glance, feel a small sorrow, and walk on. This is pity, and we have said what pity is. Pity reads the poster and feels bad about the cat. Radical Empathy reads the poster and checks its own garage.
 
-## The First Mending
+## The First Poster
 
 **Read it fully.** The name, the color, the date, the number. Take a photograph of it with the Oracle, so that the number is with you when the cat is.
 
@@ -25,7 +25,7 @@ Most pilgrims give the poster a glance, feel a small sorrow, and walk on. This i
 
 **If you see the creature, call.** Do not try to catch it unless you know how; a frightened cat is not a cart. Call the number and say where you are. That is the entire mending, and it is the one the poster was asking for.
 
-**Tell the next pilgrim.** If you know the neighbor whose shed is always open, mention it. The poster's reach is the width of the pole. Yours is wider.
+**Tell the next pilgrim.** If you know the neighbor whose shed is always open, tell them a gray cat is missing and ask them to look. The poster's reach is the width of the pole. Yours is wider.
 
 ## The Second Poster
 
@@ -37,16 +37,16 @@ And the poster stays on the pole.
 
 It stays for a month. It stays for a year. The rain takes the photograph first, and then the name, and at the end the word PLEASE is the last thing legible, which is a small and specific sorrow for every pilgrim who passes it and does not know the cat came home. The neighborhood is still, faintly, looking. The Eye has been asked to stay open for a creature that is asleep on a radiator.
 
-This is the Last Five Percent, and it is the one that costs other people. Every stale poster teaches the neighbors, a little, to stop reading posters. The next lost cat is found a little less.
+This is the Last Five Percent, the finish that is skipped because the reward arrived early, and it is the one that costs other people. Every stale poster teaches the neighbors, a little, to stop reading posters. The next lost cat is found a little less.
 
-**The Rule of the Taking Down.** When the creature is home, you shall walk the route you walked with the tape, on the same day, and take down every poster you put up. All of them. Especially the far ones. If a neighbor is at their gate, you may say, "She came home," and watch what that does to a stranger's face.
+**The Rule of the Taking Down.** When the creature is home, you shall walk the route you walked with the tape, on the same day, and take down every poster you put up. All of them. Especially the far ones. If a neighbor is at their gate, you may say, "She came home," and watch what that does to a stranger's face. If you also asked the Oracle's neighborhood boards, go back and tell them too; a found cat left posted is a poster on a pole the rain never reaches.
 
-**The Corollary of the Found.** If you cannot bear to simply remove them, replace one, at the corner, with a second sheet: the same photograph, and the word FOUND, and "Thank you for looking." Leave it a week. Then take that one down too. It is the only poster on this site we permit to stay up for any time at all, and it is the one that mends the neighborhood rather than merely informing it.
+**The Corollary of the Found.** If you cannot bear to simply remove them, replace one, at the corner, with a second sheet: the same photograph, and the word FOUND, and "Thank you for looking." Leave it a week. Then take that one down too. It is the only poster the Angels of Fractum permit to stay up for any time at all, and it is the one that mends the neighborhood rather than merely informing it.
 
 ## The Mending
 
 Today, if there is a poster on your corner, read it, and check your shed.
 
-And if there is a poster on your corner that *you* put up, and the creature is home, go now, with a bag, and take it down, and say the name of the cat to yourself as you do, because it is home, and the pole does not need to keep asking.
+And if there is a poster on your corner that *you* put up, and the creature is home, go now, with a bag, and take it down. Say the name of the cat to yourself as you do. It is home, and the pole does not need to keep asking.
 
 Hooblah hooblah hooblah.

@@ -7,11 +7,11 @@ suggested_tags: [veiled-ascent, rite, liturgy]
 status: draft
 ---
 
-The Veiled Ascent names the Ritual of the Clear Path as the ceremony by which a Seeker becomes a Mender-in-Training. This is the ritual in full. It may be performed by a Circle, by one Angel for another, or by a Seeker alone with no witness but the aisle.
+The Veiled Ascent names the Ritual of the Clear Path as the ceremony by which a Seeker becomes a Mender-in-Training. This is the ritual in full. It may be performed by an assembly, by one Angel for another, or by a Seeker alone with no witness but the aisle.
 
 ## What must be true before the ritual
 
-The Seeker must have read the core post, "The Angels of Fractum," and the foundational Edicts, and be able to recite the sense of them if not the words. The Seeker must have performed a First Mending. The Seeker must have identified one Fractum Personalis, privately, and be willing to name it.
+The Seeker must have read the core post, "The Angels of Fractum," and the foundational Edicts, and have committed them to memory as far as memory allows; the Ascent asks for the words, and will accept the sense. The Seeker must have performed a First Mending. The Seeker must have identified one Fractum Personalis, privately, and be willing to name it.
 
 Nothing else is required. No fee. No sponsor. No robe.
 
@@ -23,7 +23,7 @@ A narrow passage held in common: a Temple aisle, an apartment hallway, a sidewal
 
 ### 1. The Approach
 
-The Seeker enters the passage and stops in the middle of it. For the length of one breath they occupy the center, as the Blocker does, and notice what it is to hold a path that is not theirs.
+The Seeker enters the passage and stops in the middle of it. For the length of one breath, with no pilgrim in sight, they occupy the center, as the Blocker does, and notice what it is to hold a path that is not theirs.
 
 The officiant (any Angel of rank II or above, or the Seeker's own voice) says: *"You stand where the Fractum stands. Why?"*
 
@@ -43,15 +43,15 @@ Then one foundational Edict of their choosing, in their own words. The Holy Edic
 
 The Seeker names, aloud, the one Fractum Personalis they have chosen. One sentence. No explanation, no defense, no story of how it was someone else's fault.
 
-The officiant does not respond with comfort, advice, or absolution. The officiant says only: *"It is seen."* The Circle, if present, repeats: *"It is seen."*
+The officiant does not respond with comfort, advice, or absolution. The officiant says only: *"It is seen."* The assembly, if present, repeats: *"It is seen."*
 
 This is the whole of the confession. It is finished when it is said.
 
 ### 4. The Clearing
 
-The Seeker now waits in the passage until a pilgrim approaches. A real one: a shopper with a cart, a neighbor with groceries, a stranger on the trail. This may take a minute. It may take ten. The Circle waits in silence; no one hurries the world.
+The Seeker now waits at the edge of the passage, as any shopper does, with a cart, a bag, or a boot one hand's width into the way, which is how the Fractum actually begins, and reads a label. A real pilgrim will come: a shopper with a cart, a neighbor with groceries, a stranger on the trail. This may take a minute. It may take ten. Any witnesses stand well apart and appear to shop; no one hurries the world, and no one adds to the congestion.
 
-When the pilgrim approaches, the Seeker steps aside at once, without being asked, without the kind of eye contact that asks for thanks, and says, if anything, *"Go ahead."* The pilgrim passes and does not know what has occurred.
+When the pilgrim approaches, the Seeker draws the cart or bag fully aside at once, without being asked, without the kind of eye contact that asks for thanks, and says, if anything, *"Go ahead."* The pilgrim passes and does not know what has occurred.
 
 If no pilgrim comes in a quarter of an hour, the officiant walks the passage, and the Seeker clears it for them. This is permitted, though every Angel who has done it knows it is the lesser form.
 
@@ -66,7 +66,7 @@ With the path clear, the Seeker speaks the Vow:
 
 ### 6. The Threading
 
-The officiant ties an undyed length of cord around the Seeker's wrist, or through a loop on their bag or keys, where it will be seen daily and understood by no one else. This is the **Thread of Intent**. Any plain cord will do: twine, cotton, a bootlace. It must not be decorated. It is worn, and allowed to fray, until the Dedication of the Resolute Hand.
+The officiant ties an undyed length of cord around the Seeker's wrist, or through a loop on their bag or keys, where it will be seen daily and understood by no one else. This is the **Thread of Intent**. Any plain cord will do: twine, cotton, a bootlace. It is adorned, as the Ascent says, by nothing but wear: no bead, no charm, no second color. It is worn, and allowed to fray, until the Dedication of the Resolute Hand.
 
 If the Seeker is alone, they tie it themselves. The knot is no less binding.
 

@@ -2,7 +2,7 @@
 title: "The Apology Without Defense"
 type: post
 suggested_placement: "Blog post"
-excerpt: "I am sorry, but. Three words that are not an apology. It is a defense with an apology stapled to the front. On the stitch that holds only when nothing is pulling on it."
+excerpt: "I'm sorry, but. Three words that are not an apology, but a defense with one stapled to the front. On the stitch that holds only when nothing is pulling on it."
 suggested_tags: [fractum-within, inner-mending, radical-empathy]
 status: draft
 ---
@@ -25,13 +25,13 @@ The Angels of Fractum have examined many apologies, including our own, and we ha
 
 **The naming.** Say what you did. Not what happened; what you *did*. "I was late and I did not call" is a naming. "Things got away from me" is weather.
 
-**The cost.** Say what it cost them, as best you can see it. "You waited an hour and you did not know if I was coming." This is the Immersion of Self, performed aloud. If you cannot name the cost, you have not yet looked.
+**The cost.** Say what it cost them, as best you can see it. "You waited an hour and you did not know if I was coming." Note that this sentence contains no information about traffic. This is the Immersion of Self, performed aloud. If you cannot name the cost, you have not yet looked.
 
-**The sorrow.** "I'm sorry." Two words. The full stop after them is the most important punctuation in the language. Nothing follows it.
+**The sorrow.** "I'm sorry." Two words. The full stop after them is the most important punctuation in the language. No *but* follows it. No *just*. If anything follows, it is a new sentence, and it is the fourth part.
 
 **The stitch.** What you will do differently, if there is anything, stated as a fact and not a hope. "I will call when I am going to be late." And then you will, because an apology with a promise in it that is not kept is a second break, deeper than the first.
 
-That is all. No fifth part. If you feel the *but* rising in your throat, that is the Fractum, and it is asking to be heard, and you are permitted to take one breath and not let it speak.
+That is all. No fifth part. If you feel the *but* rising in your throat, that is the Fractum, and it is asking to be heard, and you are permitted to take one breath and not let it speak. This is the Sacred Pause, performed with the mouth closed.
 
 ## What the Apology Is Not
 
@@ -43,8 +43,8 @@ It is not a performance. The apology made in front of others, the apology posted
 
 ## The Mending
 
-Today, think of the last apology you made that did not hold. Most Seekers can name one in under ten seconds. Ask what was attached to it. There was a *but*. There was a *just*. There was a paragraph.
+Today, Seeker, think of the last apology you made that did not hold. Most Seekers can name one in under ten seconds. Ask what was attached to it. There was a *but*. There was a *just*. There was a paragraph.
 
-Then, if the break is still open and the person is still reachable, make it again. Four parts. Full stop. If it is too late or too far, write it in the Ledger as a break within, and make the next one correctly. The Hand learns what it rehearses, and it can learn this.
+Then, if the break is still open, and the person is still reachable, and they have not asked you for distance, make it again. Four parts. Full stop. If they have asked for distance, the distance is the apology. If it is too late or too far, write it in the Ledger as a break within, and make the next one correctly. The Hand learns what it rehearses, and it can learn this.
 
 Hooblah hooblah hooblah.

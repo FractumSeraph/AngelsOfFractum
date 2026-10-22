@@ -7,7 +7,7 @@ suggested_tags: [fractum-within, rest, inner-mending]
 status: draft
 ---
 
-There is an Angel on this site who has not slept properly in a month. They have returned every cart. They have shoveled three walks. They have given forty hours to the pantry and answered every dropped thread and kept the Ledger daily, and they are, at this moment, sitting in a parked car in the outer sanctum, unable to go in, because there is nothing left in them to mend with.
+There is an Angel reading this who has not slept properly in a month. They have returned every cart. They have shoveled three walks. They have given every evening this month to the pantry and answered every dropped thread and kept the Ledger daily, and they are, at this moment, sitting in a parked car in the outer sanctum, unable to go in, because there is nothing left in them to mend with.
 
 The Angels of Fractum have a word for this Angel, and it is not *devoted*. It is *dull*.
 
@@ -23,7 +23,7 @@ Why does the Angel not rest? Ask, and you will hear the voices of the Doubt, whi
 
 *There is so much to do.* True. There was yesterday; there will be tomorrow; it is not a reason.
 
-*Other people need me.* Also true, and they need you sharp, and you are not.
+*Other people need me.* Also true, and they need you sharp, and you are not. A Keeper handed a cart by an Angel who is visibly weeping has not been helped.
 
 *Resting feels selfish.* Here is the heart of it. The Angel has learned so well that "me" must not be placed above "we" that they have forgotten that "me" is a member of "we." The Angel is also a person whom the Angels of Fractum are sworn to mend. You are not exempt from Radical Empathy because you are the one holding the screwdriver.
 
@@ -31,15 +31,15 @@ And beneath these, quietest, the one voice the Angel does not want to hear: *if 
 
 ## The Law of the Sabbath
 
-Every faith has a day of rest. We take no position on which day, and we do not call it holy. We call it *maintenance*.
+Older faiths than ours keep a day of rest. We take no position on which day, and we do not call it holy. We call it *maintenance*. An Angel on the floor mends nothing.
 
 **The tool is set down.** One day in seven, or one evening in three, or whatever rhythm your life will hold, the Angel performs no Mission, returns no cart beyond their own, opens no Ledger. The world will have carts tomorrow. It had them before you.
 
-**The tool is cleaned.** Rest is not collapse. The Sabbath is sleep, and food eaten sitting down, and the walk with no bag and no purpose, and the Unbroken Hour with the Oracle face down. It is the thing that restores the edge, not merely the thing that stops the cutting.
+**The tool is cleaned.** Rest is not collapse. The Sabbath is sleep, and food eaten sitting down, and the walk with no bag and no purpose, and the Unbroken Hour, the Oracle face down and silent for sixty minutes. It is the thing that restores the edge, not merely the thing that stops the cutting.
 
 **The tool is inspected.** On the Sabbath, the Angel asks, honestly: how dull am I? Am I resentful of the carts? Am I sighing in the deniable key at the people I am mending for? Resentment is the sound of a blade that has been pushed too long. It is not a moral failure. It is a maintenance signal.
 
-**The tool accepts help.** If the inspection finds a crack that rest will not close, the Angel tells someone. A Circle, a friend, a professional whose work is this. The Hand that will fix a stranger's gate and will not say "I am not well" to a friend has misunderstood which repair is harder.
+**The tool accepts help.** If the inspection finds a crack that rest will not close, the Angel tells someone. A Circle, if you have one, a friend, a professional whose work is this. The Hand that will fix a stranger's gate and will not say "I am not well" to a friend has misunderstood which repair is harder.
 
 ## The Mending
 

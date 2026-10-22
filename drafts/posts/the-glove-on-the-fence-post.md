@@ -23,15 +23,15 @@ The whole difference between the futures is the stoop. The pilgrim who stoops ha
 
 ## The Rite of the Raised Glove
 
-**Pick it up.** The glove, the mitten, the single small shoe, the pacifier, the key on a ring with a plastic dinosaur. If it is a thing that a person will come back for, it is a thing for this rite. Money, wallets, and the Oracle itself are a different rite; those go to a Keeper, a desk, or the nearest door with a human behind it. The fence post is for things that can wait in the rain.
+**Pick it up.** The glove, the mitten, the single small shoe, the pacifier, the child's hat. If it is a thing that a person will come back for, it is a thing for this rite. Money, wallets, keys, and the Oracle itself are a different rite; those go to a Keeper, a desk, or the nearest door with a human behind it. The fence post is for things that can wait in the rain.
 
-**Raise it.** To eye height, near where it was found. Not fifty feet down the street; the pilgrim who returns will retrace their own steps, and the thing must be on them. A fence post. A branch. A railing. The ledge of a window. The top of a sign. Upright, so that it reads from a distance as *a thing that was placed*, not *a thing that fell*.
+**Raise it.** Off the ground and into plain view, near where it was found. Not fifty feet down the street; the pilgrim who returns will retrace their own steps, and the thing must be on them. A fence post. A branch. A railing. The top of a sign. Upright, so that it reads from a distance as *a thing that was placed*, not *a thing that fell*.
 
 **Make it visible to a child.** The lost mitten is being looked for by someone three feet tall, holding a parent's hand, scanning the ground. Put it where the ground meets the eye. If the fence is high, the lower rail.
 
-**Walk on.** This is the whole of the Anonymous Repair. The pilgrim who returns will find a mitten waving at them from a post, and will feel the specific, unrepeatable gladness of a world that turns out to have someone in it, and will never know who. That is precisely the point.
+**Walk on.** This is the whole of the Anonymous Repair. The pilgrim who returns will find a mitten waving at them from a post, and will know that someone stooped, and will never know who. That is precisely the point.
 
-**Do not post the photograph.** The mitten on the post is lovely. We know. It is lovely because no one was watching, and the photograph is someone watching.
+**Do not post the photograph.** The mitten on the post is a fine sight. It is fine because no one was watching, and the photograph is someone watching.
 
 ## The Corollary of the Season
 

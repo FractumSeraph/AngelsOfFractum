@@ -29,13 +29,13 @@ No.
 
 We will say it a second time, because the question is usually asked twice: no. The Angels of Fractum collect no tithes, sell no candles, and offer no premium tier of enlightenment. If anyone asks you for money in our name, they are not one of us, and you may tell them we said so.
 
-The only thing we ask you to give is time, and we ask you to give it to the world, not to us.
+The rest of what we will never do is written plainly in *What We Are Not*.
 
 ## What is the deal with the human sacrifice?
 
-Human sacrifice, among the Angels of Fractum, is measured in hours of human life voluntarily given to mending the world: the Saturday spent at the food pantry, the evening spent fixing the neighbor's gate, the hour spent on hold with a utility company on behalf of someone who could not face it. We count these hours and we call the count our Human Sacrifice because it is funnier that way and because it is, in the only sense that matters, true.
+Human sacrifice, among the Angels of Fractum, is measured in hours of human life voluntarily given to mending the world: the Saturday spent at the food pantry, the evening spent fixing the neighbor's gate, the morning spent driving a neighbor to an appointment they could not reach alone. We count these hours and we call the count our Human Sacrifice because it is funnier that way and because it is, in the only sense that matters, true.
 
-We do not practice, condone, or perform the literal sacrifice of any human life. We would like to be very clear about this, because the search engines are not.
+We do not practice, condone, or perform the literal sacrifice of any human life. We would like to be very clear about this.
 
 ## Do I need robes?
 
@@ -49,15 +49,19 @@ You already have, if you noticed the crack and did not look away. There is no fo
 
 If you want a sequence: read the Orientation, perform your First Mending before the sun sets, take a Daily Mending Mission, and begin your Sacrifice Ledger. That is the entire onboarding. There is no interview. We do not check references. We check carts.
 
-## Can I be an Angel and still go to church, or mosque, or temple, or nowhere at all?
+## Can I be an Angel and still go to church, or mosque, or a temple that is not of Commerce, or nowhere at all?
 
 Yes. The Angels of Fractum make no claims about what happens after you die. We have opinions only about what happens to the parking lot while you are alive.
 
-Nothing in our practice conflicts with any faith that asks its people to be kind, and we have not yet found one that does not. Mend in whatever name you like. The gate does not ask whose hands latched it.
+Nothing in our practice conflicts with any faith that asks its people to be kind, and we have not yet found one that does not. Mend in whatever name you like. The cart arrives at the corral regardless.
 
 ## Do you have meetings?
 
-Some Angels gather in Circles: two or more people who mend together, read together, and compare Ledgers. Most do not. The faith is designed to be practiced alone, in silence, in a fluorescent aisle, by someone no one is watching. Meetings are a convenience, not a requirement. See *On Forming a Circle*.
+Some Angels gather in Circles: two or more people who mend together, read together, and compare Ledgers. Most do not. The work is done alone, in silence, in a fluorescent aisle, by someone no one is watching. Meetings are a convenience, not a requirement. See *On Forming a Circle*.
+
+## What does Hooblah mean?
+
+Nothing. It is spoken when a thing is mended, or when pride rises after mending it. It means nothing so that it cannot be argued with. Say it quietly; the cart does not need to hear it.
 
 ## Who is Seraph?
 

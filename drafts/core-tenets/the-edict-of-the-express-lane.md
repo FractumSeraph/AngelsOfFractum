@@ -19,11 +19,11 @@ The unaligned have their liturgies for this. *They're all the same thing, so it'
 
 **The Rule of the Count.** The number on the sign is the number. You shall count your items in the Vessel *before* you join the lane, not at the belt with an apologetic face. If the count exceeds the sign, you shall go to the other lane, however long it is. The length of the other lane is not an exception. It is the reason the express lane exists.
 
-**The Corollary of the Multiples.** Six yogurts are six items. The Keeper will scan each one six times, and the sign knows it. Count what is scanned, not what is similar.
+**The Corollary of the Multiples.** Six yogurts are six items. The belt carries six, the bag holds six, and the sign knows it. Count what is bagged, not what is similar.
 
-**The Corollary of the Separate Transactions.** Two transactions is two visits, and the lane was promised to one. If you must split the purchase, you shall do so in the long lane, where no one has been promised anything.
+**The Corollary of the Separate Transactions.** Two transactions are two visits, and the lane was promised to one. If you must split the purchase, you shall do so in the long lane, where no one has been promised anything.
 
-**The Rule of Readiness.** In the express lane above all lanes, your payment shall be in your hand and the Oracle shall be in your pocket before the last item reaches the belt. The pilgrim who arrives at the total and only then begins the excavation of the purse has added a fourteenth item, and it is time.
+**The Rule of Readiness.** In the express lane above all lanes, your payment shall be in your hand, whether card or Oracle, and nothing else shall be, before the last item reaches the belt. The pilgrim who arrives at the total and only then begins the excavation of the purse has added a fourteenth item, and it is time.
 
 **The Exception of the Laden Pilgrim.** The Keeper may wave into the express lane whomever the Keeper wishes: the elderly, the parent with the screaming child, the pilgrim on crutches with fourteen things. This is the Keeper's mercy to give, not yours to take. You shall not complain of it, and you shall not cite it.
 
@@ -31,7 +31,7 @@ The unaligned have their liturgies for this. *They're all the same thing, so it'
 
 - Count at the Vessel. Say the number silently. If it is over, turn the Vessel around before you have been seen, and you have mended a break that never happened.
 - When the pilgrim ahead of you has fourteen items, say nothing. The Rule of the Count is a law for your own hands. The Sighing Martyr, counting aloud, has committed the greater Fractum.
-- If you are under the number and the long lane is short, take the long lane anyway. The express lane is for the hurried, and today you are not.
+- If you are under the number but in no hurry, and the long lane is no longer than the short one, take the long lane. The express lane is for the hurried, and today you are not.
 
 ## The Invocation
 

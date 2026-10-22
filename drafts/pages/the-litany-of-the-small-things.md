@@ -1,15 +1,15 @@
 ---
 title: "The Litany of the Small Things"
 type: page
-suggested_placement: "New top-level page (or under Core Tenets)"
-excerpt: "Invocations, graces, and a litany for the Angel who wishes to speak before mending. None are required. All are short, because the cart is still out there."
+suggested_placement: "Core Tenets submenu"
+excerpt: "Invocations, graces, and a litany for the Angel who wishes to speak before mending. None are required. All are short."
 suggested_tags: [liturgy, invocations, practice]
 status: draft
 ---
 
 The Angels of Fractum require no prayer. The returned cart is the prayer.
 
-But some Seekers have asked for words: something to say in the car before turning around, something to whisper at the corral, something to read when a Circle gathers. We have set down a few. They may be spoken aloud, muttered, or thought. They may be altered freely. They are short, because the cart is still out there.
+But some Seekers have asked for words: something to say in the car before turning around, something to whisper at the corral, something to read when a Circle gathers (two or more Angels mending in company, which is all a Circle is). We have set down a few. They may be spoken aloud, muttered, or thought. They may be altered freely. They are short, because the cart is still out there.
 
 ## The Morning Invocation
 
@@ -36,7 +36,7 @@ But some Seekers have asked for words: something to say in the car before turnin
 > For the cart left in the rain beside the parking space,  
 > **we return it.**
 >
-> For the bulb that burned out in March and has stayed dark since,  
+> For the bulb in the community room that burned out in March and has stayed dark since,  
 > **we replace it.**
 >
 > For the sign knocked sideways that no one owns,  
@@ -123,7 +123,7 @@ But some Seekers have asked for words: something to say in the car before turnin
 
 ## The Benediction of the Circle
 
-*At the close of a gathering, spoken by whichever Angel is holding the hour.*
+*At the close of a gathering, spoken by whichever Angel is leading the gathering.*
 
 > Go, and be unseen.  
 > Mend what you can reach, and do not reach for thanks.  
@@ -133,6 +133,8 @@ But some Seekers have asked for words: something to say in the car before turnin
 
 ## On the Use of These Words
 
-They are not magic. No invocation returns a cart. The words exist to mark the moment when you chose to act, so that the choosing becomes a habit and the habit becomes a life.
+They are not magic. No invocation returns a cart. The words exist to mark the moment when you chose to act, so that the choosing becomes a habit. That is all they are for.
 
 If you forget every line on this page and remember only the last three words, you have lost nothing.
+
+Hooblah hooblah hooblah.
