@@ -7,7 +7,7 @@ suggested_tags: [missions, neighbors, minor-breach]
 status: draft
 ---
 
-This mission restores the humblest Order there is, the one the Orientation offers as a First Mending: the Order of the Curb on the morning after collection.
+This mission restores the humblest Order there is, the one the Orientation offers as a First Mending ("Right a bin"): the bin on the morning after collection, whose law is the Edict of the Curb.
 
 - **The Break:** The truck has come and gone. The wind has come and stayed. The neighbor's bin lies on its side in the street with its lid flung open and a single pizza box making its slow pilgrimage toward the storm drain. Everyone drives around it. Everyone will drive around it for two days. A bin on its side is a small public declaration that the street has no one in it, and every car that swerves agrees.
 

@@ -17,7 +17,7 @@ Then a second pilgrim replies to all forty to say "Thanks!" Then a third replies
 
 This is not catastrophe. No one dies of the Broadcast. But observe the arithmetic of the Fractum: thirty-nine people, ten seconds each, three replies. Twenty minutes of human attention, which is to say human life, spent on a "Thanks!" that was meant for one person. Multiply by every thread in every building, and the Sin of the Broadcast consumes more hours in a week than the Angels have sacrificed in a year.
 
-## The Theology of the Button
+## What the Second Button Is For
 
 There are two buttons. One is for the person who asked. The other is for everyone who was ever told. The second button exists for a real purpose: the correction that everyone needs, the answer that everyone was waiting for. It was not built for gratitude, and it was not built for agreement, and it was certainly not built for the pilgrim who wishes it to be known that they, too, will be there.
 
@@ -39,9 +39,9 @@ The Angels of Fractum have not written an Edict of the Inbox, because the inbox 
 
 ## The Mending
 
-Today, Seeker, before you reply to any message that went to more than three people, perform the Sacred Pause with your thumb above the button. One breath. In that breath, ask who needs this.
+Before you reply to any message that went to more than three people, stop with your thumb above the button. One breath. In that breath, ask who needs this.
 
-Then find the thread you are in right now that has gone wrong, and write to the one person who started it, privately, offering to carry the correction so that they need send it only once. Write in the Ledger: *One thread, one reply, thirty-nine people left alone.*
+Then find the thread you are in right now that has gone wrong, and write to the one person who started it, privately, offering to carry the correction so that they need send it only once. Thirty-nine people will go on with their afternoon, and not one of them will know it was spared.
 
 The inbox is an aisle. Clear it.
 

@@ -29,7 +29,7 @@ Each item in the Pile is a small promise you made to yourself and have not kept.
 
 This is the inner architecture of the Fractum. The Seeker who cannot hang the picture frame will struggle, when it matters, to make the harder stitch, not because they are weak, but because they have practiced deferral ten thousand times and follow-through almost never. The Hand learns what it rehearses.
 
-## The Mending
+## The Three Practices
 
 We do not ask you to empty the Pile. The Pile is bottomless; the world will keep adding to it. We ask for three practices.
 
@@ -39,9 +39,9 @@ We do not ask you to empty the Pile. The Pile is bottomless; the world will keep
 
 **The Naming of the Day.** When you catch yourself saying *tomorrow*, say instead the real name of the day you mean: *Thursday*. If you cannot name a day, you have not deferred the task. You have abandoned it, and you should admit this to yourself, and either do it now or let it go for good. The Pile is made entirely of tasks that were never given a day.
 
-## A Field Note
+## The Frame Against the Wall
 
-One of us kept a picture frame against a wall for eleven months. It held a photograph of people that Angel loves. The nail was in a drawer six feet away. The hammer was in the garage. The whole operation, timed afterward, took three minutes and forty seconds, which left twenty seconds to stand and look at the people on the wall and feel the specific, slightly embarrassed peace of a thing that was always this easy.
+A Seeker wrote to us about a picture frame that leaned against a wall for eleven months. It held a photograph of people she loves. The nail was in a drawer six feet away. The hammer was in the garage. The whole operation, timed afterward, took three minutes and forty seconds, which left twenty seconds to stand and look at the people on the wall and feel the specific, slightly embarrassed peace of a thing that was always this easy.
 
 The Later Pile is where the easy things go to become hard. Today, take out the oldest one and give it its real name.
 

@@ -2,39 +2,41 @@
 title: "The Edict of the Quiet Hours"
 type: edict
 suggested_placement: "Core Tenets submenu"
-excerpt: "The mower at seven on a Sunday. The bass that arrives through the floor as a heartbeat. The dog left to keep the street company. On sound, the one thing you own that leaves your property without asking."
-suggested_tags: [core-tenets, edict, neighbors, consideration]
+excerpt: "A street keeps hours it never posts. On the mower at seven on a Sunday, the drum that arrives through the floor, the dog left to do the only job it was given, and the one sentence that makes an exception lawful."
+suggested_tags: [core-tenets, edict, neighbors, quiet-hours]
 status: draft
 ---
 
-Of everything you own, sound is the only thing that leaves your property without asking. The fence stops the dog. The curtain stops the light. Nothing stops the mower, and the mower knows it.
+The Temple of Commerce posts its hours on the door. A street posts nothing, and keeps them anyway.
 
 ## The Break
 
-It is seven on a Sunday morning, and the street is asleep: the Keeper of the Hearth who closed the Temple at midnight, the nurse off a night shift, the parents whose infant finally went down at four. Into this quiet comes the cord pulled, and the engine catching, and then the lawn, which was in no danger, being saved.
+Sunday, seven in the morning. The street is sleeping the one sleep of the week it has promised to no one: the Keeper of the Hearth who locked the Temple at one, the parents whose infant surrendered at four.
 
-The pilot of the mower would tell you it is cooler at seven, which is true, and that the neighbors are probably up, which is the Fractum Personalis in the robes of a reasonable guess.
+Then the cord is pulled, the engine catches, and the lawn, which grew a quarter inch overnight, is rescued from it.
 
-The mower has cousins: the bass that travels through concrete, so that the music never arrives next door, only its heartbeat, a pulse in the floor at eleven at night. There is the dog left in the yard all afternoon, not a loud dog but a lonely one, doing the one job it was left with. And there is the leaf blower, the Unholy Glare of the ear: a machine for moving a problem from your ground to your neighbor's at a volume the whole street pays for.
+The pilot of the mower is not cruel. Rising early feels like virtue from the inside, and he has reasoned that the grass is his, the yard is his, and the hour is his. Two of these are true. The third was never his. It belongs to the street, and he has borrowed it without knocking.
 
-None of these is a crime. Each is a withdrawal from an account held in common.
+The mower has relatives. Concrete is a strange instrument: it strips a song of everything but the drum and delivers that through the shared wall at a quarter past eleven. The dog, given a yard and nothing to do in it, informing the block all afternoon that it has been left. And the leaf blower, the Unholy Glare of the ear, which removes no leaves, only moves them, at the volume of a small aircraft, onto ground that is not yours.
+
+None of these is a crime, Seeker. Each is a withdrawal from an account the whole street holds in common.
 
 ## The Law
 
-**The Rule of the Sunday Dawn.** No engine, blower, hammer, or saw shall start before the street is awake, and the street is awake when its kitchen lights are on, not yours. On the seventh day it wakes later than you, and you shall wait for it. If you would not wish to be woken by a sound at that hour, do not make it, and then wait one hour more; you are not the lightest sleeper on the street.
+**The Rule of the Sunday Dawn.** No engine, saw, hammer, or amplified thing shall start before the street is awake or run after it has gone to bed, and on the seventh day the street wakes last. You are awake; of course you are, you are holding the mower. The Unposted Hours open when the last dark window on the block lights, not when yours does.
 
-**The Corollary of the Shared Wall.** The wall between two dwellings is held in common, and whatever has a beat passes through it. If you can feel it in your feet, they can feel it in their bed. After dark, what has a beat goes into the ears alone.
+**The Corollary of the Shared Wall.** A wall between two dwellings carries whatever has a beat, and what crosses it is yours. The Law does not ask you to stop the music, only to stop sharing it. After the street is down, anything with a drum in it goes into your own ears only.
 
-**The Rule of the Barking Hours.** The dog is innocent. You shall not leave it to keep the street company. A dog that barks through the afternoon is asking for the walk it did not get, and the Mending is the walk, or the door opened, or a neighbor asked to look in. The bark is addressed to you and delivered to everyone else.
+**The Rule of the Innocent Dog.** The dog is innocent and shall not be left to speak for you. A dog barking through the afternoon is not disturbing the street; it is reporting to it. The Mending belongs to the one who holds the leash: the walk it did not get, the door opened, a neighbor asked to look in.
 
-**The Exception of True Need.** The Fractum recognizes the shift worker who can mow only at dusk, the pipe that bursts at midnight, the generator in the outage. Need is not convenience. When you must break the Quiet Hours, tell the neighbor beforehand: a knock, a note, a message. "I have to run the saw tonight. I am sorry; it will be done by nine." Beforehand, that sentence is a courtesy. Afterward, it is an apology, and it buys back nothing.
+**The Exception of True Need.** As in the Eleventh Hour, the Fractum recognizes the shift worker who can mow only at dusk, the pipe that gives way at midnight, the generator in the outage. Need is lawful; silence about need is not. Before the engine starts, the neighbor hears from you, by knock or note: "I have to run the saw tonight. It will be done by nine. I am sorry, and I thank you." Beforehand, that sentence is a courtesy. The next morning, across the fence, it is a receipt.
 
 ## The Mending
 
-- Learn what your neighbors keep. Ask once. If the Keeper next door sleeps until ten after closing the Temple, your Sunday Dawn is ten every day of the week. That is a schedule, not a burden.
-- Before the cord is pulled, perform the Sacred Pause with your hand on it. Look at the windows. If the blinds are down, so is the engine.
-- The rake is silent and has not been improved upon.
+- Keep every loud machine and every loud song inside the daylight your neighbors keep, not the daylight the sun keeps. If you do not know who works nights, one conversation will tell you.
+- When you must break the hours, say so beforehand, in person or in ink. The note beforehand is Mending. The apology afterward is paperwork.
+- This Sunday, leave the mower in the shed until a neighbor appears on a porch with a cup. The porch is how a street posts its hours.
 
 ## The Invocation
 
-As the mower sits in the shed at seven with the dew on it, as the music drops below the floor, as the dog comes in for the afternoon, speak the phrase. The neighbor will sleep through it, which is the point. Hooblah hooblah hooblah.
+As the engine waits with the dew on it, as the drum drops out of the floor, as the dog comes in, speak the phrase at a volume that crosses no wall. The neighbor will sleep through it, which is the whole of the law. Hooblah hooblah hooblah.

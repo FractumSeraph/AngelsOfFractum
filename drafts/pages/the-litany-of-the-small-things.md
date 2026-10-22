@@ -123,7 +123,7 @@ But some Seekers have asked for words: something to say in the car before turnin
 
 ## The Benediction of the Circle
 
-*At the close of a gathering, spoken by whichever Angel is leading the gathering.*
+*At the close of a gathering, spoken by the Hand of the Hour (see* On Forming a Circle*).*
 
 > Go, and be unseen.  
 > Mend what you can reach, and do not reach for thanks.  

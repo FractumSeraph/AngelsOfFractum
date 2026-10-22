@@ -39,6 +39,12 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Sacred Pause.** The breath between noticing and reacting, in which Radical Empathy is chosen over reflex. One of the three Foundational Mending Missions (Cart, Pause, Minor Breach).
 
+**The Later Pile.** The drawer, the end of the counter, or the corner of the mind where small tasks wait for a day called Tomorrow, which does not exist. Its remedy is the Rule of Four Minutes: a thing that takes four minutes is done before it touches the Pile.
+
+**The Last Five Percent.** The part of every task the Fractum keeps for itself: the shelf built but not anchored, the form filled but not sent. Skipped because the reward arrives before the work is done. A task is complete only when it can be forgotten; the Ledger does not accept ninety-five.
+
+**The Unbroken Hour.** One hour each week in which the Great Oracle is face down and silent and the Angel is wholly present to one other person or one piece of work. Called Unbroken because, for that hour, you are.
+
 **Alignment of Will; Inner Alignment; the Great Alignment.** The state of being whole and pointed toward repair. "The aligned" practice it. "The unaligned" have not yet. "The profane" is what we call the unaligned when we are feeling theatrical; it is not an insult. We were all profane on Tuesday.
 
 **The First Mending.** A newcomer's first repair of a small thing that was not their responsibility. Must be small. Must be real. Must be today.
@@ -59,7 +65,7 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The outer sanctum.** The parking lot. Where the Vessel is most often abandoned and the Unholy Glare is most often born.
 
-**The Keepers of the Hearth.** Those who work the fryer, the register, the mop, the drive-thru window: "the fryers of the sacred oil, the sweepers of the tile, the counters of the drawer." Their overlords are corporate; their Edicts forbid them from turning you away. Treat them accordingly.
+**The Keepers of the Hearth.** Those who work the fryer, the register, the mop, the drive-thru window: "the fryers of the sacred oil, the sweepers of the tile, the counters of the drawer." Their overlords are corporate, and the Edicts of their overlords forbid them from turning you away. Treat them accordingly.
 
 **The Great Oracle in your pocket.** Your phone. Consult it for closing hours. Do not consult it at the shared table.
 
@@ -87,6 +93,10 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Circle.** Two or more Angels who gather to mend, read, and add their hours together. Optional.
 
+**The Hand of the Hour.** The Angel who, for one gathering of a Circle, chooses the reading, names the Mending, and speaks the benediction. It rotates every gathering; no one holds it twice in a row. A Circle has no leader. It has a Hand of the Hour.
+
+**The Observances.** A small liturgical year of named days (the Great Corralling, the Feast of the Keepers, the Vigil of the Changed Batteries, and others), kept because a day with a name is a day one remembers to act. See *The Calendar of Holy Days and Observances*.
+
 **Seraph.** The one who writes things down.
 
 ## The Ascent
@@ -94,6 +104,8 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 **The Veiled Ascent.** The sacred ladder of ranks: I The Seeker, II The Mender-in-Training, III Hand of the Stitch, IV Architect of the Alignment, V The Unbroken Eye, VI Angel of the Living Fractum. Advancement is by demonstrated mending, not seniority.
 
 **The Thread of Intent.** An undyed length of cord received at the Ritual of the Clear Path and worn until the next rank.
+
+**The Sacred Vow of Vigilance.** The vow spoken at the Ritual of the Clear Path, dedicating the mind to seeing the break and the body to clearing the way for others.
 
 **The Thimble.** Received at the Dedication of the Resolute Hand. A sign that the hands are now dedicated instruments.
 

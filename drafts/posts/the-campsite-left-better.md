@@ -2,65 +2,69 @@
 title: "The Campsite Left Better"
 type: post
 suggested_placement: "Blog post"
-excerpt: "Before there were aisles there was a ring of stones in a clearing, and every pilgrim who sat there inherited it from the last. On the foil in the fire ring, the initials in the table, and why leave no trace is a floor and not a faith."
-suggested_tags: [commons, anonymous-repair, outdoors, minor-breach]
+excerpt: "Every campsite is a will, and you are named in it by a pilgrim you will never meet. On the foil that outlived the potato, why leave no trace is only a floor, and the three words that make a fire cold."
+suggested_tags: [commons, anonymous-repair, outdoors, minor-breach, fire-safety]
 status: draft
 ---
 
-Before the Temple of Commerce, before the sacred aisle, there was a clearing with a ring of stones in it. A pilgrim made a fire there and slept and left, and another found the ring and warmed different hands at the same stones.
+The oldest shared thing in the world is a flat place near water where someone slept. They made a ring of stones so the fire would stay put, then left, and someone else found the ring and did not have to make one.
 
-That ring is the commons in its oldest form. No one owns it. Everyone inherits it from the last pilgrim and bequeaths it to the next, and the inheritance is decided in the ten minutes before departure, by what is picked up and what is left.
+That is the commons before it had a name: an inheritance, passed from a pilgrim who has gone to one who has not yet arrived, and decided in the last ten minutes before the car door shuts.
 
-The park bench is the same ring with a plaque on it.
+Every campsite is a will, Seeker. You are named in it by someone you will never meet. Tonight you write the next one.
 
-## The Inheritance
+## As Found
 
-At any campsite the Eye of Recognition reads the pilgrim before you.
+The Eye of Recognition reads the previous heir.
 
-The fire ring is full of foil. Foil does not burn, Seeker. It curls, blackens, and waits, and it has waited in that ring since someone decided a fire was a bin.
+The fire ring holds foil. It arrived around a potato; the potato has gone to its reward and the foil has not, because fire does not finish foil. It is a slow, hot way of making it permanent.
 
-There is a bottle cap in the gravel. There is a bread clip, the smallest manufactured object and the one most often left in the wilderness. There is a peel, left by a pilgrim who believed it was nature.
+There is a bottle cap in the gravel, pressed flat by a boot it will outlast.
 
-And there is the table, into which a pilgrim has carved two initials and a date. They wished to be remembered. They are, by every stranger who has eaten there since, exactly this way: as the one who did that to the table.
+And there is the table, into which a pilgrim has cut two initials and a heart. They wished to be remembered, and they have been, exactly as they asked: every stranger who has eaten here has run a thumb along the groove and thought not of the love but of the knife.
 
-## The Floor
+## The Doctrine of Innocence
 
-The profane have a saying about the wild places, and it is a good one: leave no trace. We honor it, and we point out, with respect, that it is a floor.
+The profane have a commandment for the wild places, and it is a good one: leave no trace. We keep it. We add that it is a floor.
 
-Leave no trace describes a pilgrim who was never there, and a pilgrim who was never there has mended nothing. The ring is as full of foil as it was. You have declined to add to the Fractum, which is the Ritual of the Empty Vessel: necessary, holy, and the minimum.
+It is a Doctrine of Innocence. It asks only that you not add to the Fractum, and the pilgrim who keeps it perfectly leaves the ring exactly as full of foil as they found it. Innocence has never mended anything. It has only declined to break it further.
 
-The aligned aim to have been there and to be undetectable in only one direction. The pilgrim who follows should find a site slightly, inexplicably better than it had any right to be, and never learn why.
+Our only doctrine is maintenance. The aligned leave the place slightly better. Not greatly; a pilgrim with a rake has mistaken a campsite for a yard. Slightly. One cap gone from the gravel. One sheet of foil out of the ash. A flat stone under the short leg of the table, so it stops rocking for a family who will never know it did.
 
-That is not leaving no trace. That is a Mending, performed for a stranger who has not yet arrived.
+The next pilgrim finds nothing wrong. The highest repair is the one no one sees, and at a campsite there is no one for miles.
 
-## The Rite of the Cold Fire
+## Drown, Stir, Feel
 
-The fire first. The profane have a word for a fire they are finished with, and the word is *out*, and it is an opinion. A fire is not out because the flames are gone, or because you kicked dirt on it and the smoke stopped. A fire that was "out" has burned a campsite the afternoon after the pilgrim drove home.
+The fire first; it is the one bequest that can take the forest with it.
 
-Three parts, every time, in order.
+The profane say a fire is "out" the way they say a Vessel is "basically" in the corral. The flames are gone and a boot has pushed dirt across it. Under the dirt the coals wait, warm and patient, for a wind the afternoon after you are home.
 
-- **Drown.** Pour water on the fire until the hissing stops. Not a splash: until the ring is silent. If you did not bring enough water for this, you did not bring enough water for a fire.
-- **Stir.** Take a stick and turn everything in the ring. Lift the coals, turn the logs, expose what is underneath, where the heat hides, and drown again.
-- **Feel.** Hold the back of your hand over the ashes, then lower it, then touch them. If it is too hot to touch, it is too hot to leave. Drown and stir again until it is cold to the touch. Cold, Seeker. Not cool. Not probably fine.
+Three words, in order, every time.
 
-If the Keepers of the Clearing have posted that there are no fires this season, there are no fires this season. That Edict is older than any of ours.
+**Drown.** Pour water on the fire until the hissing stops, then keep pouring; the hiss is only the fire that was within reach. If you have no water, you do not have a fire; you have a decision you made too early. Dirt or sand, stirred in until cold, is the penance. Burying it is not; a buried fire is a fire with a blanket.
 
-## The Ground
+**Stir.** Take a stick and turn the whole bed. Lift the logs, roll the coals, break the gray open and look at what is under it, which is orange more often than you would wish. Drown again. Stir again.
 
-Pack your own things; that is the floor. Then, before you lift the last bag, walk the ground once more and pick up one thing that is not yours.
+**Feel.** Hold the back of your hand above the ash. Lower it. Touch. Cold, the temperature of the ground beside the ring, and nothing warmer. If it is too hot to touch, it is too hot to leave. Return to the first word.
 
-The cap. The clip. The foil, now that the ring is cold. One is the requirement; more is usual, because once the Eye is open it does not close on command. If the piece is glass or sharp, use a bag as a glove, or leave it and tell the Keepers of the Clearing where it lies. They have gloves.
+If the sign at the gate says no fires, there are no fires.
 
-The same rite governs the picnic table and the park bench. The coffee cup on the armrest, left four feet from the bin by a pilgrim who was very nearly aligned. Lift it. Walk the four feet. Walk on.
+## The Bequest
 
-Do not carve the table. If you wish to be remembered there, be remembered as the Angels are: by the pilgrim who sits down, finds nothing wrong, and thinks nothing of it at all.
+Now the ground. Pack your own things; that is innocence. Then walk the site once more and pick up one thing that is not yours. The cap. The foil, now that the ring is cold. One is the Bequest. More is usual.
 
-If the site beside yours is the one with the foil, mend your own ground and the path between. Their fire is not yours to tend. The next pilgrim's morning is.
+Glass and anything sharp go into a bag used as a glove, or stay where they lie while you tell the ranger where.
 
-## The Departure
+The picnic table and the park bench keep the same law; it is the Minor Breach, taken outdoors. The lid wedged between the slats is yours to lift and walk to the bin.
 
-Before you leave any campsite, picnic table, or park bench today: remove one piece of litter that is not yours, and touch the ashes of your own fire and find them cold.
+Do not cut the table. If you wish to be remembered at a campsite, be remembered as the Angels are: as the reason a stranger's evening had nothing wrong with it.
 
-The pilgrim after you will warm their hands at a clean ring and will not know your name. That is the inheritance. Pass it on.
+The pilgrims at the next site are not your parish. While they are there, their fire and foil are not yours to tend or mention. A fire left smoking at an empty site is a different matter: you do not go in with your water, you go to the host or the ranger with the site number. Your ground and the path to the water are yours.
+
+## Before the Car Door
+
+Before you leave any campsite, picnic table, or park bench today: remove one piece of litter that is not yours, and hold the back of your hand over the ashes of your own fire, then on them, and find them cold to the touch.
+
+Someone will warm their hands at your ring and never know your name. You have left them a will. It says the place was slightly better than you found it, and it does not say who.
 
 Hooblah hooblah hooblah.

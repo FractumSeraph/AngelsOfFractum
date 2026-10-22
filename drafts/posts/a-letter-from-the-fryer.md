@@ -35,7 +35,7 @@ A Keeper
 
 ## Seraph Answers
 
-The Keeper is right, and the law is hereby amended in spirit, pending its proper writing: the Eleventh Hour is governed not only by the clock but by the *readiness* of the pilgrim. The 9:15 car that knows its order honors the Keepers more than the 8:30 car that does not. The Grace Before the Drive-Thru, in the Litany of the Small Things, exists for this reason, and we commend it to you.
+The Keeper is right, and has written the Edict's missing half for us; until it is set down properly, let it be read this way: the Eleventh Hour is governed not only by the clock but by the *readiness* of the pilgrim. The 9:15 car that knows its order honors the Keepers more than the 8:30 car that does not. The Grace Before the Drive-Thru, in the Litany of the Small Things, exists for this reason, and we commend it to you.
 
 As for being remembered: Seeker, you are being remembered. Every window you have ever passed through has a Keeper behind it, and the Keeper has a ledger too, and you are in it, and the only question is on which page.
 

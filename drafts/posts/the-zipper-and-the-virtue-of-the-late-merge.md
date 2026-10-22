@@ -23,7 +23,7 @@ Seeker, the engineers of roads have studied this, and the Angels of Fractum have
 
 When two lanes become one and the traffic has slowed to a crawl, the road works best when both lanes are used to the end and the pilgrims take turns at the point of merging, one from each lane, like the teeth of a zipper. This is called the zipper merge. It uses the whole road. It makes the lanes equal, so that no one is punished for choosing the wrong one. It shortens the line by half, and it ends the argument about who deserves to be in it.
 
-But it *feels* like cutting in line. And that feeling is the Fractum Personalis wearing its most convincing disguise: the disguise of fairness.
+But it *feels* like cutting in line. And that feeling is the Fractum Personalis, which has never had a better alibi than fairness.
 
 The early merger has not been considerate. They have been *seen* being considerate, by themselves, and have then spent ten minutes resenting everyone who was not. The one who waited and now refuses to let the zipper close is not defending order. They are defending the story in which their waiting meant something.
 
@@ -33,7 +33,7 @@ The early merger has not been considerate. They have been *seen* being considera
 
 **At the point, alternate.** One from the left, one from the right. The car ahead of you in the other lane goes; then you; then the one behind them. No one is cutting. Everyone is a tooth.
 
-**Let one in.** When you are in the lane that continues, and the car beside you reaches the merge point with its signal on, make room for exactly one. The Edict of the Signal and the Lane already commands the gap for one; here you learn why it was commanded. You are the other half of the zipper.
+**Let one in.** When you are in the lane that continues, and the car beside you reaches the merge point with its signal on, make room for exactly one. The Edict of the Signal and the Lane commands the raised hand of the one who is let in; this is the other half of that law, and the reason for it. You are the other half of the zipper.
 
 **Know which road you are on.** The zipper is for the crawl. If the traffic is moving freely and there is room beside you, move over when you see the sign, as the aligned have always done; racing an open lane to the cones is not the zipper, it is the Blocker at sixty miles an hour.
 

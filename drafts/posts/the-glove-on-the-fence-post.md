@@ -13,7 +13,7 @@ No one organized this. There is no Edict of the Raised Glove. There is no commit
 
 The Angels of Fractum did not invent this mending. We are here to say that it is one, and to write down how it is done, because customs that no one writes down are the ones the Fractum erodes first.
 
-## The Break
+## The Two Futures
 
 A lost thing on the ground has two futures. In the first, it is stepped on, kicked into the gutter, soaked, flattened, and lost in the second and permanent sense: the sense in which no one will ever find it, because it is no longer the shape of a thing anyone is looking for.
 

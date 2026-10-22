@@ -49,4 +49,4 @@ Hooblah hooblah hooblah.
 
 ## Seraph Adds
 
-The former Blocker is now a Hand of the Stitch, and has returned more carts than most of us, and still parks slightly crooked in the outer sanctum, and knows it, and is working on it. The Aisle 7 field report names the four conditions of the modern soul. This is what the first two sound like from inside. The Fractum is mended by people who go back.
+The former Blocker is now a Hand of the Stitch, and has returned more carts than most of us, and still parks slightly crooked in the outer sanctum, and knows it, and is working on it. The Aisle 7 field report names the four conditions of the modern soul. This is what the first two sound like from inside. He went back. That was the only part of the story that was ever his to decide.

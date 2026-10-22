@@ -19,7 +19,7 @@ The Hand of Intentional Mending is a tool. The Eye of Recognition is a tool. Lik
 
 ## The Fractum Personalis of the Tireless
 
-Why does the Angel not rest? Ask, and you will hear the voices of the Doubt, which has a voice for this too.
+Why does the Angel not rest? Ask, and the Doubt will answer at once; the Doubt is never too tired to talk.
 
 *There is so much to do.* True. There was yesterday; there will be tomorrow; it is not a reason.
 
@@ -35,15 +35,15 @@ Older faiths than ours keep a day of rest. We take no position on which day, and
 
 **The tool is set down.** One day in seven, or one evening in three, or whatever rhythm your life will hold, the Angel performs no Mission, returns no cart beyond their own, opens no Ledger. The world will have carts tomorrow. It had them before you.
 
-**The tool is cleaned.** Rest is not collapse. The Sabbath is sleep, and food eaten sitting down, and the walk with no bag and no purpose, and the Unbroken Hour, the Oracle face down and silent for sixty minutes. It is the thing that restores the edge, not merely the thing that stops the cutting.
+**The tool is cleaned.** Rest is not collapse. The Sabbath is sleep, and food eaten sitting down, and the walk with no bag and no purpose, and the Unbroken Hour: sixty minutes with the Oracle face down and silent, wholly present to one person or to one piece of work that is not a Mission. It is the thing that restores the edge, not merely the thing that stops the cutting.
 
 **The tool is inspected.** On the Sabbath, the Angel asks, honestly: how dull am I? Am I resentful of the carts? Am I sighing in the deniable key at the people I am mending for? Resentment is the sound of a blade that has been pushed too long. It is not a moral failure. It is a maintenance signal.
 
 **The tool accepts help.** If the inspection finds a crack that rest will not close, the Angel tells someone. A Circle, if you have one, a friend, a professional whose work is this. The Hand that will fix a stranger's gate and will not say "I am not well" to a friend has misunderstood which repair is harder.
 
-## The Mending
+## The Angel in the Parked Car
 
-Today, if you are the Angel in the parked car: go home. Do not go in. The carts will keep. Write nothing in the Ledger tonight except, if you must, *rested*, which is an entry, and a true one.
+If you are the Angel in the parked car: go home. Do not go in. The carts will keep. Write nothing in the Ledger tonight except, if you must, *rested*, which is an entry, and a true one.
 
 Tomorrow, choose the rhythm. Name the day. Set the tool down on it, every time, without apology, and watch what the edge does when it is finally allowed to return.
 

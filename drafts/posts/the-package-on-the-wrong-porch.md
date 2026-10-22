@@ -19,7 +19,7 @@ The unaligned have three responses to the box, and they are worth naming, becaus
 
 **The Keeping.** We will say only that it happens, and that the Angel who has done it, even once, even with a box of something they did not want, knows exactly which page of the Ledger it belongs on.
 
-**The Vague Gesture.** The box is moved to the sidewalk, or the lobby, or the top of the mailboxes, with the feeling that it has been handled. It has been relocated. The neighbor still does not have it. This is the Last Five Percent of the task, the part the Fractum keeps for itself, delivered.
+**The Vague Gesture.** The box is moved to the sidewalk, or the lobby, or the top of the mailboxes, with the feeling that it has been handled. It has been relocated. The neighbor still does not have it. The box has been moved. It has not been delivered. The distance between those two words is where the Fractum lives.
 
 ## What the Box Asks
 

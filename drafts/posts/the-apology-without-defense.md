@@ -9,7 +9,7 @@ status: draft
 
 There is a sentence the unaligned say when they have broken something between two people, and it begins with the words *I'm sorry*, and it is not an apology.
 
-It goes: *I'm sorry, but.* Or: *I'm sorry you feel that way.* Or: *I'm sorry, I was just.* Each of these is a defense with an apology stapled to the front of it, and the person receiving it knows at once, the way a Keeper knows the sound of the 9:40 car, that what has arrived is not repair.
+It goes: *I'm sorry, but.* Or: *I'm sorry you feel that way.* Or: *I'm sorry, I was just.* Each of these is a defense with an apology stapled to the front of it, and the person receiving it knows at once, the way a Keeper knows the difference between a thank-you and a tip, that what has arrived is not repair.
 
 ## The Break
 
@@ -31,7 +31,7 @@ The Angels of Fractum have examined many apologies, including our own, and we ha
 
 **The stitch.** What you will do differently, if there is anything, stated as a fact and not a hope. "I will call when I am going to be late." And then you will, because an apology with a promise in it that is not kept is a second break, deeper than the first.
 
-That is all. No fifth part. If you feel the *but* rising in your throat, that is the Fractum, and it is asking to be heard, and you are permitted to take one breath and not let it speak. This is the Sacred Pause, performed with the mouth closed.
+That is all. No fifth part. If you feel the *but* rising in your throat, that is the Fractum, and it is asking to be heard, and you are permitted to take one breath and not let it speak. One breath, mouth closed. The *but* does not survive it.
 
 ## What the Apology Is Not
 
@@ -45,6 +45,6 @@ It is not a performance. The apology made in front of others, the apology posted
 
 Today, Seeker, think of the last apology you made that did not hold. Most Seekers can name one in under ten seconds. Ask what was attached to it. There was a *but*. There was a *just*. There was a paragraph.
 
-Then, if the break is still open, and the person is still reachable, and they have not asked you for distance, make it again. Four parts. Full stop. If they have asked for distance, the distance is the apology. If it is too late or too far, write it in the Ledger as a break within, and make the next one correctly. The Hand learns what it rehearses, and it can learn this.
+Then, if the break is still open, and the person is still reachable, and they have not asked you for distance, make it again. Four parts. Full stop. If they have asked for distance, the distance is the apology. If it is too late or too far, write it in the Ledger as a break within, and make the next one correctly. The Hand learns the stitch it practices most, and it can be taught a new one.
 
 Hooblah hooblah hooblah.

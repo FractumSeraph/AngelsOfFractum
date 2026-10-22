@@ -2,7 +2,7 @@
 title: "The Self-Checkout and the Keeper Who Is Not There"
 type: post
 suggested_placement: "Blog post"
-excerpt: "At the self-checkout the pilgrim is ordained, for four minutes, as a Keeper of the Hearth. Most pilgrims use the time to learn nothing. A field guide to the eight stations, and to the one attendant who tends them all."
+excerpt: "At the self-checkout the pilgrim is ordained, for four minutes, as a Keeper of the Hearth. A field guide to the eight stations, and to the one attendant who tends them all."
 suggested_tags: [temple-of-commerce, keepers, sacred-pause, offering-of-the-name]
 status: draft
 ---
@@ -15,7 +15,7 @@ Here, Seeker, you are ordained. For one transaction you are the counter of the d
 
 Your hands have scanned three items and are already impatient. The third did not beep, and something in you decided this was the machine's fault, and a small hot feeling arrived that you would never show a Keeper and are now showing a screen.
 
-The Keeper feels the item fail to beep four hundred times a shift and has never once sighed at it in front of you. She has a face for this, and the face is the work.
+The Keeper has felt the item fail to beep more times this morning than you will this year, and has never once sighed at it in front of you. She has a face for this, and the face is the work.
 
 You have been a Keeper for ninety seconds and have no face for it at all.
 
@@ -29,13 +29,13 @@ She did not build the scale. She is only the one who can calm it, for eight peop
 
 ## A Field Report From the Eight Stations
 
-Stand near the attendant for a quarter of an hour and you will meet every condition of the newly ordained.
+Stand near the attendant for a quarter of an hour and you will meet the same four souls who populate the sacred aisle, each in miniature.
 
-- The Waver, who does not ask for help so much as signal for it, one hand raised toward the attendant as toward a malfunction, the sigh already audible three stations away.
+- The Waver, who does not ask for help so much as signal for it, one hand flapped toward the attendant as toward a malfunction, the sigh already audible three stations away.
 
 - The Over-Scanner, who treats the station as a contest, driving items past the glass faster than the scale can agree to them, so that the light turns red four times a minute and the attendant returns to the station she just left.
 
-- The Abandoner, whose card declined at item fourteen and who walked away from the half-scanned order as though it were weather, leaving the next pilgrim a locked screen and a basket of someone else's groceries, slowly warming.
+- The Abandoner, whose card declined at item fourteen (no sin in that; it happens to the aligned) and who left without a word to the attendant, as though the half-scanned order were someone else's, leaving the next pilgrim a locked screen and a basket of someone else's groceries, slowly warming.
 
 - The Quiet Mender, who scans at the speed of the scale, says "I think it's the rice" when the light goes red, reads the badge when the attendant arrives, and leaves the station clean.
 
@@ -43,7 +43,7 @@ The attendant knows all four on sight. She meets them in that order, hourly.
 
 ## The Keeper Who Is Not There
 
-The pilgrim, looking at the screen, cannot see that the Keeper's work does not end at the receipt but when the station is ready for the next pilgrim. The bags restocked. The scale cleared. The receipt removed from its slot, where otherwise it waits, bearing your total, for a stranger to read.
+The pilgrim, looking at the screen, cannot see that the Keeper's work does not end at the receipt. It ends when the station is ready for the next pilgrim. The bags restocked. The scale cleared. The receipt removed from its slot, where otherwise it waits, bearing your total, for a stranger to read.
 
 The Keeper who is not there did this after every customer. Now you do. The heap of unused bags, the loose receipt, the onion left on the scale to become the next pilgrim's unexpected item: each is a small Fractum handed forward, and each is one the Keeper used to close for you.
 
@@ -57,10 +57,10 @@ The next time you are ordained, perform the office in full.
 
 - When the light turns red, take the breath before the hand goes up. Summon the attendant with the hand, not the sigh.
 
-- When she arrives, read the badge and say the name. "Thanks, Dana." This is the Offering of the Name. She is summoned a hundred times a shift and named almost never.
+- When she arrives, read the badge and say the name. "Thanks, Dana." This is Mission 3, the Offering of the Name, performed at the one station in the Temple where the Keeper is summoned rather than met. She is summoned a hundred times a shift and named almost never.
 
 - Leave the station exactly as you found it. Bags on the rack. Receipt in your pocket or the bin. Nothing on the scale. The next pilgrim should not be able to tell that you were there.
 
-You have been a Keeper for four minutes. It is enough to know what the work is, and enough to never again wave at someone doing it.
+You have been a Keeper for four minutes. It is enough to know what the work is, and enough to never again sigh at someone doing it.
 
 Hooblah hooblah hooblah.

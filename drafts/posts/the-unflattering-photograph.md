@@ -17,7 +17,7 @@ The Angels of Fractum have no quarrel with the camera. Our quarrel is with the g
 
 The Fractum here is not cruelty. The pilgrim who posted the photograph was not trying to make their friend look like a startled heron. They did not see the friend at all. The Eye went to the self, found the self satisfactory, and stopped looking. Every other face in the frame was scenery.
 
-This is the Fractum Personalis in a very pure form, and it is worth naming precisely: *my image is the center, and everyone else in it can adapt.* The friend, mid-blink, is now mid-blink forever, in the public record, consulted by acquaintances and future employers and their own mother, and the only vote that was cast about this was yours, and you did not know you were casting it.
+This is the break within, stated as plainly as it can be stated: *my image is the center, and everyone else in it can adapt.* The friend, mid-blink, is now mid-blink forever, in the public record, consulted by acquaintances and future employers and their own mother, and the only vote that was cast about this was yours, and you did not know you were casting it.
 
 And the friend will not say anything. That is the part the Eye should see, Seeker. They will say "ha, great pic," and they will not ask you to take it down, because asking is vain and awkward and makes a small thing large. They will simply, the next time you raise the Great Oracle at a table, turn very slightly away.
 
@@ -37,9 +37,9 @@ The second glance is for every other face in the frame. Look at each one as if i
 
 **The Corollary of the Taking Down.** If a friend asks you to remove a photograph, you shall remove it, at once, without the word "but," and without asking why. It is their face. The reason is theirs.
 
-## The Mending
+## The Glance, Taken Late
 
-Today, Seeker, look at the last photograph you posted with another person in it. Perform the second glance now, late. If the other face would not have chosen that picture, take it down, quietly. No one will ask why, because no one looks at old photographs except the people who are in them.
+Open the Oracle now and find the last photograph you posted with another person in it. Perform the second glance now, late. If the other face would not have chosen that picture, take it down, quietly. No one will ask why, because no one looks at old photographs except the people who are in them.
 
 Then, the next time the Oracle rises at a table, take the picture and put the Oracle down. Later, before it leaves your hand, look at it twice, and, if it passes, ask anyway.
 

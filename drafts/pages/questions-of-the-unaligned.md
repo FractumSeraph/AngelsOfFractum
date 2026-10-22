@@ -47,7 +47,7 @@ If you want a robe, any robe will do. A bathrobe is a robe. The Angel who return
 
 You already have, if you noticed the crack and did not look away. There is no form.
 
-If you want a sequence: read the Orientation, perform your First Mending before the sun sets, take a Daily Mending Mission, and begin your Sacrifice Ledger. That is the entire onboarding. There is no interview. We do not check references. We check carts.
+If you want a sequence: read the Orientation, perform your First Mending before the sun sets, take a Daily Mending Mission, and begin your Sacrifice Ledger. There is no further step. There is no interview. We do not check references. We check carts.
 
 ## Can I be an Angel and still go to church, or mosque, or a temple that is not of Commerce, or nowhere at all?
 
@@ -57,7 +57,7 @@ Nothing in our practice conflicts with any faith that asks its people to be kind
 
 ## Do you have meetings?
 
-Some Angels gather in Circles: two or more people who mend together, read together, and compare Ledgers. Most do not. The work is done alone, in silence, in a fluorescent aisle, by someone no one is watching. Meetings are a convenience, not a requirement. See *On Forming a Circle*.
+Some Angels gather in Circles: two or more people who mend together, read together, and add their hours together. Most do not. The work is done alone, in silence, in a fluorescent aisle, by someone no one is watching. Meetings are a convenience, not a requirement. See *On Forming a Circle*.
 
 ## What does Hooblah mean?
 

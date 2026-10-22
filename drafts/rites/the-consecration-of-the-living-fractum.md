@@ -38,6 +38,8 @@ Then the candidate speaks the Vow of the Last Stitch:
 
 ## After the rite
 
-The Angel of the Living Fractum has no privileges and no duties beyond those of a Seeker. They hold the hour in their Circle no more often than anyone. They take the same turn at the broom.
+The Angel of the Living Fractum has no privileges, and no duties beyond those of a Seeker save the affirmations the Ascent asks of the sixth rank. They lead no gathering more often than anyone else, and the broom does not know their rank.
+
+Seekers may practice the Unburdening early: the spare cord, the second screwdriver, the ladder that has not left the garage in a year, each given to a neighbor who will use it, without ceremony and without a note.
 
 The only change is this: when a Seeker asks them, in a parking lot, what they are doing, they are permitted to answer "Returning a cart" and nothing more, and the Seeker, if the Eye is open, will understand that they have just received the entire teaching.

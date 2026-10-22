@@ -35,14 +35,14 @@ A gathering has four parts. It may be done in forty minutes.
 
 **The Count.** Each Angel who wishes names the hours they have given since the last gathering, and the Hand of the Hour adds them. The sum may be sent to Seraph, who keeps the count. No individual's number is recorded, repeated, or compared. An Angel who says "none" is answered with "next time," and nothing else.
 
-**The Confession and the Benediction.** Any Angel who wishes may name one Fractum Personalis and one stitch they will make before the next gathering. Then the Hand of the Hour speaks a short benediction of their own making (two lines will do: "Go, and be unseen. May the stitch hold."), everyone says the sacred threefold phrase, and everyone goes home. There is no social hour. The social hour was the carts.
+**The Confession and the Benediction.** Any Angel who wishes may name one Fractum Personalis and one stitch they will make before the next gathering. Then the Hand of the Hour speaks a short benediction, their own or the Benediction of the Circle from *The Litany of the Small Things* (two lines will do: "Go, and be unseen. May the stitch hold."), everyone says the sacred threefold phrase, and everyone goes home. There is no social hour. The social hour was the carts.
 
 ## What a Circle does not do
 
 - **It does not collect money.** Not for robes, not for snacks, not for a good cause.
 - **It does not recruit.** The Call finds people. If someone asks, tell them. If no one asks, return the cart.
 - **It does not confront.** It mends. Silently.
-- **It does not perform.** No photographs of the work. No matching shirts. No posting the Count. The highest repair is the one no one sees, and a Circle that wants to be seen has stopped repairing.
+- **It does not perform.** No photographs of the work. No matching shirts. No posting the Count. A Circle that wants to be seen has stopped repairing and begun rehearsing.
 - **It does not require robes.** Though a Circle that wears them to the corral has broken no Edict.
 
 ## Where to meet

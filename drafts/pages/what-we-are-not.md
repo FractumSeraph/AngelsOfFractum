@@ -41,7 +41,7 @@ If you pray, pray. If you do not, do not. Then return the cart.
 
 ## We do not ask you to suffer
 
-The work of mending is sometimes thankless and often tiring, and we say so. But the Angel who is exhausted, resentful, or unwell has become a Minor Breach of their own, and is owed the same repair. Rest is maintenance. Set down the tool. An Angel on the floor mends nothing.
+The work of mending is sometimes thankless and often tiring, and we say so. But the Angel who is exhausted, resentful, or unwell has become a Minor Breach of their own, and is owed the same repair. Rest is maintenance; *The Sabbath of the Tool* says how. Set the tool down on the day you named, and do not apologize for it.
 
 Should the practice ever make you feel smaller, stop practicing and tell someone you trust.
 

@@ -23,7 +23,7 @@ Most pilgrims give the poster a glance, feel a small sorrow, and walk on. This i
 
 **Look where cats go.** Your garage. Your shed. Under your porch. The gap behind your recycling. Most lost cats are within a few houses of home, hiding, and the household has already searched their own few houses; it is the neighbors' that find the cat. Open the door, look, say the name once, and close the door. Two minutes.
 
-**If you see the creature, call.** Do not try to catch it unless you know how; a frightened cat is not a cart. Call the number and say where you are. That is the entire mending, and it is the one the poster was asking for.
+**If you see the creature, call.** Do not try to catch it unless you know how; a frightened cat is not a cart. Call the number and say where you are. You have done what the poster asked. Nothing more is required, and nothing more is wise.
 
 **Tell the next pilgrim.** If you know the neighbor whose shed is always open, tell them a gray cat is missing and ask them to look. The poster's reach is the width of the pole. Yours is wider.
 

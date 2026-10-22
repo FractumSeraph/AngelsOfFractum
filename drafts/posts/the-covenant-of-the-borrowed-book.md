@@ -35,11 +35,11 @@ This is why the Angels of Fractum hold the borrowed book to be sacred: not becau
 
 **Tend the box.** If the box is leaking, the door is stuck, or the books are soaked, this is a Minor Breach. Ask whoever keeps the box before you touch it; they will say yes, they have wanted someone to. Then any Angel with a screwdriver and a dry afternoon may mend it.
 
-**Leave no note in the book.** The highest repair is unseen. The pilgrim who finds a good book in the box should find only the book.
+**Leave no note in the book.** The pilgrim who finds a good book in the box should find only the book, and should wonder, briefly, who on this street reads like that, and never learn.
 
-## The Mending
+## The Book That Is Late
 
-Today, find the book that is late. There is one. Return it. If there is no late book, walk to the nearest box on a post, and look at what is in it, and leave the best book in your dwelling that you have already finished.
+There is a book in your dwelling that is late. You thought of it before this sentence ended. Return it before the library closes. If there is no late book, walk to the nearest box on a post, and look at what is in it, and leave the best book in your dwelling that you have already finished.
 
 Then walk away, and let the next pilgrim find it, and never know.
 

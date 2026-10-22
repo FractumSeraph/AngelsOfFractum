@@ -29,7 +29,7 @@ The second break is the Orphaned Perishable. A package of chicken, chosen and th
 
 - Decide before you open. The door is the last step, not the first.
 - Take the cold things last, so they spend the fewest minutes in the Vessel and the door is opened once.
-- If you see an Orphaned Perishable, do not return it to the case. You cannot know how long it has been among the cereal, and neither can the pilgrim who would buy it after you. Carry it to a Keeper, or leave it where the Keeper will find it. The chicken has already gone to its reward, and you are not its priest.
+- If you see an Orphaned Perishable, do not return it to the case. You cannot know how long it has been among the cereal, and neither can the pilgrim who would buy it after you. Carry it to a Keeper, or leave it where the Keeper will find it. The chicken is past saving, and you are not its priest.
 
 ## The Invocation
 

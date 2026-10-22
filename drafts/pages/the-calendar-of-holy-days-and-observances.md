@@ -28,7 +28,7 @@ On the day when light and dark are balanced, the Angel balances the ledger of bo
 ### The Thaw of the Trailhead
 *The first Saturday of April.*
 
-The thaw reveals what winter hid: the litter at the trailhead, the bags the snow swallowed, the cans in the ditch. The Angel takes a bag and gloves to one public place and leaves it clean. This is a Repair of Omission in its most muddy form, and it is performed without a vest, a banner, or a photograph.
+The thaw reveals what winter hid: the litter at the trailhead, the bags the snow swallowed, the cans in the ditch. The Angel takes a bag and gloves to one public place and leaves it clean. This is a Repair of Omission with mud on it, and it is performed without a vest, a banner, or a photograph.
 
 ### The Feast of the Coiled Hose
 *The first frost, or the week before it is forecast.*
@@ -43,7 +43,7 @@ The profane complain about the hour, lost or gained. The aligned use it. On each
 ### The Night of the Lowered Beams
 *The first Sunday after the autumn clock change.*
 
-The dark now comes at dinner, and the Unholy Glare returns to the roads. On this night, the Angel parks on level ground facing a wall at twenty-five feet, marks on the wall with tape the height of the lamp centers, and turns on the low beams. The bright edge of each beam should fall at or a little below the tape, never above it. If it falls above, the adjuster is a screw behind or beside the lamp, and the owner's manual knows which one; if the manual does not, a mechanic will do it in ten minutes for less than the cost of being hated by everyone on the road home. Then, as the Edict has it: let your light be sufficient for your own steps and never a stumbling block for the journey of another.
+The dark now comes at dinner, and the Unholy Glare returns to the roads. On this night, the Angel parks on level ground facing a wall at twenty-five feet, marks on the wall with tape the height of the lamp centers, and turns on the low beams. The bright edge of each beam should fall at or a little below the tape, never above it. If it falls above, the adjuster is a screw behind or beside the lamp, and the owner's manual knows which one; if the manual does not, a mechanic will do it in ten minutes for less than the cost of being hated by everyone on the road home. Then, as the Edict has it: let your light be sufficient for your own steps, but never a stumbling block for the journey of another.
 
 ### The Great Corralling
 *The day after the autumn feast, when the Temples open before dawn.*
@@ -70,7 +70,7 @@ A Mender-in-Training seeking the rank of Hand of the Stitch keeps the Vigil once
 ### The Unbroken Hour
 *Once a week, on a day of your choosing.*
 
-One hour in which the Great Oracle is face down and silent, and the Angel is wholly present to one other person or one piece of work. It is called Unbroken because, for that hour, you are.
+One hour in which the Great Oracle is face down and silent, and the Angel is wholly present to one other person. It is called Unbroken because, for that hour, you are.
 
 ### The Day of the Reopened Ledger
 *Whenever the Ledger has not been opened in a Sacred Moon Cycle.*

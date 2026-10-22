@@ -2,40 +2,42 @@
 title: "The Edict of the Elevator and the Threshold"
 type: edict
 suggested_placement: "Core Tenets submenu"
-excerpt: "The doors part and seven pilgrims occupy the one square yard none of them can use. On the outflow, the clear threshold, the held car, and the pilgrim who guards the buttons."
+excerpt: "The doors open and two crowds meet in the gap, each certain it was first. On the outflow, the clear threshold, the car held for a conversation, and the pilgrim who boards first and takes up residence beside the buttons."
 suggested_tags: [core-tenets, edict, thresholds, consideration]
 status: draft
 ---
 
-A door is the narrow place where two directions meet. An elevator is a door that moves. The Angels have written of the door held for another; this Edict concerns the door you pass through yourself, and the one law of every threshold: it must be empty before it can be full.
+A threshold is not a room. Nothing has ever been accomplished in one. It is where two directions have agreed to take turns, and the agreement breaks every time the doors part.
+
+The held door has a Mission of its own. This is the law of the door nobody holds: the one that opens by itself, and the ground just past any door.
 
 ## The Break
 
-The elevator doors part. Inside stand four pilgrims who wish to leave. Outside stand three who wish to enter, and they advance as the doors open, as though the car might get away, and for a moment seven people occupy the one square yard that none of them can use. The four turn sideways. The three press. The car departs half a minute late and carries the resentment to every floor.
+The elevator opens. Within stand four pilgrims who have arrived. Without stand three who have not, and the three advance as the doors part, as though the car were a prize that must be claimed before the four have finished leaving it. For a moment seven people stand in an opening the width of one person and a half, all of them sideways.
 
-The train and the bus know the same Fractum: the crowd on the platform forms a wall across the open door, and the pilgrims within must part it to escape.
+The train knows this Fractum: the platform forms a horseshoe around the open door and waits, politely, for the people inside to find a way through.
 
-There is a stiller form. A pilgrim crosses a threshold and stops in it, because the threshold is where the deciding happens: which way is the office, what does the Oracle say. Behind them the doorway becomes a wall with a person in it. A group reaches the crest of an escalator and halts to confer with the Oracle, while the stair, which does not halt, goes on delivering strangers into their backs.
+A pilgrim crosses a threshold and halts in it, because the far side of a door is where the next decision lives, and she has decided to make it there. Behind her the doorway becomes a line with one person at its head and no plan. A group reaches the top of the escalator and stops to consult the Oracle, and the stair, which cannot be reasoned with, goes on delivering one pilgrim every two seconds into the heels of the group.
 
-And in the car, the pilgrim who boards first and stops beside the panel, guarding the buttons like a relic, so that everyone after must reach past them into a car packed at the front and empty at the back.
+And in the car, the Warden of the Buttons: the pilgrim who boards first, takes the ground beside the panel, and keeps it, so that every pilgrim after must reach past a stranger's shoulder into a car that is crowded at the front and empty at the back, like a theater on a weeknight.
 
 ## The Law
 
-**The Rule of the Outflow.** When the doors part, you shall step to the side, not in front, and wait until the last pilgrim within has crossed out. Then enter. Those inside have reached their destination; you have not. Theirs is nearer, and it is through you.
+**The Rule of the Outflow.** When the doors part, you shall stand to the side of the opening and let the car empty to the last pilgrim. Those within have arrived; you have not; and the arrived go first. Only when the threshold is empty is it yours.
 
-**The Rule of the Clear Threshold.** You shall not stop in a doorway, at the foot or crest of an escalator, or before an open door on a platform. If you must decide, take three paces past the threshold and decide there. Three paces beyond it the world is wide, and you may stand as long as you like.
+**The Rule of the Clear Threshold.** You shall not stop in a doorway, at the foot or crest of an escalator, or in the open door of anything that runs on a schedule. When you must decide, walk until you could turn around without touching anyone. There, stop; deciding is free.
 
-**The Corollary of the Held Elevator.** You may hold the car for the pilgrim close enough to be seen hurrying. You shall not hold it for one finishing a conversation, nor hold it with your own body while you finish yours. The car holds eight pilgrims who were not party to the conversation and are now attending it.
+**The Corollary of the Held Elevator.** You may hold the car for one pilgrim already hurrying toward it. You shall not hold it for a pilgrim who is still talking, nor with your own arm while you finish a sentence to someone in the hall. The car is a vehicle with passengers, and they boarded it because they had somewhere to be.
 
-**The Rule of the Back of the Car.** You shall move in and fill from the back. If you find yourself beside the buttons, you have become the Keeper of the Panel, and the office is simple: ask "Which floor?", press it, and hold the door for those leaving. The panel is not a relic. It is a counter, and you are behind it.
+**The Rule of the Back of the Car.** Move in; fill from the back. If you find yourself beside the buttons you have taken not a post of honor but a job: to ask where each pilgrim is going and press it. The buttons are not yours. You are merely nearest.
 
 ## The Mending
 
-- At every door today, let it empty before you move. Count the pilgrims leaving. That is the only number at the threshold.
-- When you need to stop, take three paces first.
-- In the car, go to the back. If you are at the front, be the Keeper. Pressing a stranger's floor is a Mending so small no Ledger will record it.
-- If the car is full when you arrive, say "Go ahead" and wait for the next. It is one minute.
+- At every door today, stand aside and let everyone out before you go in. Count them if it helps; the count is the whole liturgy.
+- Never stop in the opening. Decide on the far side, where you could turn without touching anyone.
+- Hold the doors for the one who is hurrying. Let them close on the one who is talking; the car comes back.
+- Enter, turn, go to the back. If you are nearest the buttons, ask and press.
 
 ## The Invocation
 
-As the last pilgrim steps out and you step in, as the doors close on a car that filled from the back, speak the phrase. No one will know the threshold was clear because of you. Thresholds do not remember. Hooblah hooblah hooblah.
+When the car has emptied and you have stepped in and turned to face the doors, as every pilgrim does without being told, speak the phrase, Seeker. The doors will close on no one. Nothing more is asked of you in a box that moves. Hooblah hooblah hooblah.

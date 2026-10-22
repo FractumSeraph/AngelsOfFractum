@@ -2,61 +2,61 @@
 title: "The Grudge as Deferred Maintenance"
 type: post
 suggested_placement: "Blog post"
-excerpt: "A grudge is a leak you have decided not to fix, because fixing it would mean admitting the roof is yours. On the bucket emptied daily, the argument won nightly in the shower, and the two repairs that hold."
+excerpt: "Every roof has one leak the owner has decided is weather. On the bucket emptied each morning, the verdict delivered nightly to an empty shower, and the two honest ways to fix a ceiling that someone else cracked."
 suggested_tags: [fractum-within, inner-mending, ledger]
 status: draft
 ---
 
-Every Seeker who has owned a roof knows the leak that is not fixed.
+Among the Angels of Fractum there is a saying about roofs: every roof has one leak the owner has decided is weather.
 
-It is not a large leak. It appears after a certain kind of rain. A bucket is placed. The bucket is emptied in the morning. The stain on the ceiling is noted, and the noting is mistaken for maintenance. Years pass. The bucket becomes furniture. And the ceiling goes quietly soft above the bucket, until one day the problem is no longer a leak but a roof.
+It is a small leak. It comes only with a certain rain. The owner sets a bucket beneath it, empties it each morning, and in the emptying feels something that resembles diligence. A stain forms on the ceiling and is noted. Years pass. The bucket acquires a permanent place and is stepped around in the dark. And above it, through all those diligent mornings, the plaster quietly turns to paste.
 
-This is the grudge, Seeker. Every Angel has carried one, and some so long that we have given it a chair.
+That is the grudge, Seeker. Not the break. The bucket.
 
-## The Leak
+## Which Roof This Is
 
-A grudge begins as a true break. They were late, or cruel, or absent at the one hour when presence was the whole of the ask. The break was real. This post is not for the breaks you caused; for those there is the Apology Without Defense. It is for the breaks done *to* you.
+Be precise about what is being mended, because a neighboring doctrine exists and is not this one.
 
-The break happened once. The leak is what you do with it after.
+The apology without defense is for breaks you caused; that stitch is yours alone. This post is for the other kind: the break that was done *to* you. They were late to the one hour that mattered. They said the thing and have never unsaid it. They were absent, or careless, or cruel, and the hole in the roof is real. We do not dispute the hole.
 
-## The Bucket
+We ask only who is sleeping under it.
 
-The bucket is emptied like this. Each time their name is mentioned, a small correction is made inside the chest. Each time a story is told in which they appear, it is edited so the listener will understand, without being told, what sort of person they are. The Seeker no longer notices the weight of the bucket, only the relief of setting it down empty, which is mistaken for peace.
+## The Undelivered Verdict
 
-And then there is the shower.
+Every grudge keeps a courtroom, and the courtroom is the shower.
 
-## The Tribunal of the Shower
+Here the Seeker is counsel, witness, and bench. The other party is summoned and says the thing they said, and the Seeker answers with what should have been said at the time, refined over several hundred hearings into a sentence of such merciless economy that no appeal is possible. The Seeker wins. The water is shut off. The Seeker will win again tomorrow, by the same margin.
 
-Every grudge convenes a court. It sits in the shower, and the Seeker is prosecutor, witness, and judge.
+The other party is not in attendance. They never have been. They are at this moment buying mulch, and if told that a verdict had been entered against them at 6:40 this morning, in steam, they would be astonished, and then ask who paid for the hot water.
 
-The evidence is excellent, because the Seeker has had years to arrange it. The other party is summoned and says the thing they said, and the Seeker replies with the thing they should have said at the time, polished since to a sentence of such precision that it would end the matter in any real court. The Seeker wins. The water is turned off. The Seeker wins again tomorrow, by the same margin.
+This is the Undelivered Verdict: an argument rehearsed to perfection and performed for no one, in the one room of the house where nothing can be mended.
 
-The other party is not in the shower. They do not know the trial is happening, and if told would be astonished to learn how much of the Seeker's hot water they have been using.
+## The Misfiled Fractum
 
-This is the Fractum Personalis in its most expensive form, and the only one the Seeker files under someone else's name. The resentment is kept in a folder marked with their initials. The leak is above your bed. Whatever they did, the ceiling is yours.
+Here is the comedy, and it is not a kind one. The grudge is a Fractum Personalis, named among the first cracks in *The Fractum Within*, and it is the most expensive one a Seeker owns. It costs mornings. It costs every story in which that person appears, each now edited so the listener will reach the correct conclusion without being told. It costs the holder exclusively, and daily.
 
-## Whose Roof
+And the holder files it under someone else's name.
 
-The leak persists because fixing it would mean admitting the roof is yours. The Seeker wants it fixed by the one who made the hole, which is a reasonable wish and a terrible maintenance plan. They may never come. None of this changes who is sleeping under the stain.
+Open the Seeker's private accounts and you will find a folder marked with the other party's initials, thick with exhibits, and not one line among the breaks within. The leak is above your bed. The folder insists it belongs to the neighbor. No roofer in history has accepted that filing.
 
-Radical Empathy here is not for them. It is the Immersion of Self turned inward: an honest look at what the bucket has cost you, in mornings, in edited stories, in hot water. Pity says *poor me*. Empathy says *this is my ceiling, and a bucket is not a roof*.
+The Seeker is waiting for the hole to be fixed by the one who made it. That person is not coming, and in most cases does not know there is a hole. The ceiling does not know either, and does not wait.
 
 ## The Two Repairs
 
-There are two, and the Seeker must choose honestly, which means choosing the true one rather than the easy one.
+The Seeker who has admitted the roof has two repairs, and only two, and must choose the true one rather than the easy one.
 
-**The stitch.** If the person is reachable, and safe, and the break is one a thread could still close: send one message. One. It names the break without the evidence file. *I have been carrying what happened in March, and I would rather not. Can we talk?* The sentence from the shower is not used; it was built to win, and a stitch is not a win. The stitch is in the sending, not the reply.
+**The stitch.** If the person is reachable, and the break is one a thread could still close, send one message. One. It names the break and brings no exhibits: *I have been carrying something from last spring, and I would rather not. Could we talk?* Leave the sentence from the shower in the shower. It was made for a room with no one in it, and it does not survive company. If they answer yes, bring the same sentence to the table and nothing from the folder. The stitch is complete when it is sent. What they do with it is their roof.
 
-**The release.** If the person is gone, or far, or was never safe, or if no conversation would honestly close this, the stitch is not the repair, and the Angels of Fractum do not counsel you to climb toward anyone who once pushed you off a roof. For this there is the Unsent Letter. Write the whole case, the polished sentence at last on paper, where it can be read instead of rehearsed. Then do not send it. Put it in a drawer or the fire, and open the Ledger, under Breaks within, and write: *Released the thing with R. Did not send it.* A bucket set down must be written down, or the Seeker will pick it up again on Tuesday.
+**The release.** If the person is gone, or far, or was never safe, the stitch is not the repair, and the Angels of Fractum do not counsel any Seeker to climb back toward someone who once kicked away the ladder. The release is for this. Write the letter in full. Put the Undelivered Verdict on paper at last, every exhibit, where it can be read once instead of rehearsed forever. Then do not send it. Fold it into a drawer, bury it, or burn it in the sink with the window open. And open the Sacrifice Ledger, among the breaks within, and write one line: *Released the matter with R. Did not send it.* The line is not optional. What is set down but not written down is picked up again on Thursday.
 
-Neither repair requires that they deserve it. The roof does not ask who made the hole before it consents to be fixed.
+Neither repair asks whether they deserve it. The roof has never inquired who made the hole before agreeing to be fixed.
 
 ## Today's Practice
 
-Name one grudge. Most Seekers have it before the end of this sentence.
+Name one grudge. You already have; it arrived before the end of the previous sentence.
 
-Decide, honestly, which repair is the true one. Then, before you sleep: the one message, with no defense and no exhibits; or the letter, written in full and not sent, and one line in the Ledger.
+Then choose, honestly, the true repair, and perform it before you sleep: the single message, with no defense and no evidence attached; or the whole letter, written and not sent, and the line in the Ledger.
 
-Tomorrow morning, for the first time in years, do not check the bucket.
+Tomorrow morning, walk past the bucket without looking in.
 
 Hooblah hooblah hooblah.

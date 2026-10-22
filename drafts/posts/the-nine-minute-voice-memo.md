@@ -51,9 +51,9 @@ Each of these is small. Each costs the sender nothing. Each hands a few minutes 
 
 **Give the agenda or do not take the time.** Thirty minutes of a stranger's life is not yours to spend without saying what it buys. Say what it is for.
 
-## The Mending
+## Before You Send
 
-Today, before you send anything, perform the Sacred Pause with the message in your hand and ask one question: *what does this cost the person who receives it?* If the answer is more than it cost you to send, rewrite it until it is not.
+The next message you send is the whole practice. Before it leaves your hand, take the Sacred Pause and ask one question: *what does this cost the person who receives it?* If the answer is more than it cost you to send, rewrite it until it is not.
 
 And if a nine-minute memo arrives, listen to it. The sender meant well. Then answer in four lines, warmly, and let the shape of your answer be the whole of your teaching.
 

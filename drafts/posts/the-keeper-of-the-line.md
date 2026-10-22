@@ -1,5 +1,5 @@
 ---
-title: "The Keeper of the Line"
+title: "The Keeper at the End of the Hold"
 type: post
 suggested_placement: "Blog post"
 excerpt: "After forty minutes of hold music, a human voice. The voice did not write the policy, did not design the menu, and did not choose the music. On what you do with the first ten seconds."
@@ -27,13 +27,13 @@ They are the person at the fryer at 9:57. And you are the headlights.
 
 The pilgrim who opens with fury believes they are being heard by the company. They are not. The company is not on the line. The company is a building somewhere with a logo on it, and it cannot hear anything. What is on the line is a person with a name, and the fury goes into that person and stays there, and the company is unaffected, and the bill is still wrong.
 
-This is the Fractum Personalis in its most efficient form: it harms someone, it mends nothing, and it feels like justice.
+Of all the breaks within, this is the most efficient: it harms someone, it mends nothing, and it feels like justice.
 
 ## The Law of the First Ten Seconds
 
 **Say the name back.** They said it; use it. "Hi, Marcus." This is the Offering of the Name, and it does something to the call that no script can undo: it tells the Keeper that the pilgrim on the other end has noticed that there is a person on this end.
 
-**State the wrong, not the war.** "My bill has a charge I don't recognize and I'd like help understanding it." One sentence, in the voice you would use with a neighbor. The forty minutes are not Marcus's fault, and you may mention them once, lightly, as weather: "That was a long hold; thanks for picking up."
+**State the wrong, not the war.** "My bill has a charge I don't recognize and I'd like help understanding it." One sentence, in the voice you would use with a neighbor. The forty minutes are not Marcus's fault, and you may mention them once, lightly, with no bill attached: "That was a long hold; thanks for picking up."
 
 **Let the silence work.** The Keeper will need to look at the account. The silence is them working. Do not fill it.
 
@@ -41,7 +41,7 @@ This is the Fractum Personalis in its most efficient form: it harms someone, it 
 
 **End with the upward praise.** If the Keeper helped, say so, and say it again, by name, when the survey comes. This is the Rite of Praise That Travels Upward, and from outside the building it is the only lever you have.
 
-## The Mending
+## When the Music Stops
 
 The next time the music stops and a human says their name, say the name back before you say anything else. Then take one breath. That breath is the Sacred Pause, and it belongs to you, not to Marcus. Then say the one sentence.
 

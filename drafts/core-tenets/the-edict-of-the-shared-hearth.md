@@ -11,7 +11,7 @@ The Temple of Commerce has its Keepers of the Hearth, paid and badged. The place
 
 ## The Break
 
-Every workplace has a shared room, and every shared room has a small Fractum running in it at all hours. The microwave, its door open, its interior a record of every lunch since spring. The mug in the sink that has been "soaking" since Tuesday. The cold box, in which a container with no name and no date has outlasted two of the people who might have owned it. The printer, jammed, with four people's jobs queued behind it and a fifth person walking away from it pressing cancel.
+Every workplace has a shared room, and every shared room has a small Fractum running in it at all hours. The microwave, its door open, its interior a record of every lunch since spring. The mug in the sink that has been "soaking" since Monday. The cold box, in which a container with no name and no date has outlasted two of the people who might have owned it. The printer, jammed, with four people's jobs queued behind it and a fifth person walking away from it pressing cancel.
 
 The liturgy of this Fractum is a single word, and everyone in the building has said it: *later.*
 

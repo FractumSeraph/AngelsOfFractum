@@ -33,14 +33,14 @@ That is the reach. It is not the glance. It is the slow decision, made by someon
 
 **If you must, say so.** "I'm waiting on a call about my mother; I'm going to leave this up." Said once, this is not a Fractum. It is the Exception of True Need, carried from the Eleventh Hour to the table, and the person across from you will understand it completely, because it is a sentence about *them*: it tells them that under any other circumstance, they would have your whole eyes.
 
-**The Unbroken Hour.** Once a week, one hour, with one person, the Oracle face down and silent, and you wholly present. It is the practice we hear about most often from Seekers who cannot say what it changed.
+**The Unbroken Hour.** Once a week, one hour, the Oracle face down and silent, and you wholly present to one person or one piece of work; at the table, the person. It is the practice we hear about most often from Seekers who cannot say what it changed.
 
 **The Corollary of the Photograph.** The Oracle may rise to take one picture of the table. Then it goes back down. The dinner is not for the record. It is for the people at it.
 
-## The Mending
+## Tonight, at the Table
 
 Tonight, at whatever table you share, put the Oracle face down before the first word is spoken. Not when you notice yourself glancing; before. And then notice, over the course of the meal, what the person across from you brings when they are not being compared to everything else.
 
-It may be nothing. It may be a long thought they have been holding for a month. Either way, write in the Ledger: *Face down. The whole meal.* It is a mending, and it is one of the few mendings that is also a gift you will receive.
+It may be nothing. It may be a long thought they have been holding for a month. Either way, it was a mending, and one of the few that is also a gift you receive. You will know it worked on the night you forget to check whether it worked.
 
 Hooblah hooblah hooblah.

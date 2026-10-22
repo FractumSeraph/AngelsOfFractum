@@ -2,7 +2,7 @@
 title: "The Returns Line and the Speech"
 type: post
 suggested_placement: "Blog post"
-excerpt: "The Keeper at the returns counter needs the receipt, the item, and a reason that fits in one word. The pilgrim has brought the whole history of the sweater. On the confessional that no one sanctioned, and the nine people waiting behind you to enter it."
+excerpt: "The Keeper at the returns counter needs the receipt, the item, and a reason that fits in one word. The pilgrim has brought the whole history of the sweater, and nine people are waiting behind them to enter the confessional that no one sanctioned."
 suggested_tags: [temple-of-commerce, keepers, consideration]
 status: draft
 ---
@@ -23,15 +23,15 @@ And so the pilgrim confesses anyway, at length, to a person who needs three thin
 
 ## What the Keeper Can Use
 
-The Keeper's screen has a field for the reason. The field is a menu. It has perhaps six entries, and none of them is "the giver has not seen me since the wedding." The Keeper will hear the whole history of the sweater and select "did not fit," which you could have said in one second of the nine minutes you have spent at the counter.
+The Keeper's screen has a field for the reason. The field is a menu. It has perhaps six entries, and none of them is "the giver has not seen me since the wedding." The Keeper will hear the whole history of the sweater and select "did not fit," which you could have said in one second of the six minutes you have spent at the counter.
 
 She can use three things.
 
-- The receipt, or the Oracle's record of it, open before you reach the counter.
+- The receipt, or its record in the Great Oracle in your pocket, open before you reach the counter.
 
 - The item, with its tags, in its bag, as it came.
 
-- One word. Fit. Wrong. Duplicate. Changed my mind. The menu does not judge, and neither does she.
+- One word. Fit. Wrong. Duplicate. Color. The menu does not judge, and neither does she.
 
 Everything beyond these three is a gift to yourself, paid for by someone else.
 
@@ -41,7 +41,7 @@ Turn, once, Seeker, and look.
 
 Nine pilgrims. Each with an item. Each with a speech as long and as justified as yours, and each waiting while you deliver yours. The pilgrim directly behind you has a toaster and a parking meter. None of them will say anything. Their silence is the Keeper's silence, and you are spending both.
 
-The Sighing Martyr is not the greater Fractum here. You are. He is only the one who noticed.
+Each of them believes their own speech is the short one. So did you.
 
 ## The Exception of the Faulty Thing
 
@@ -53,13 +53,13 @@ But a full account is not a long one. It is the three things, then four sentence
 
 ## The Return That Is Not Made
 
-A further mending happens before you leave the house.
+A further mending happens at home, before anything is bagged.
 
 Hold the item. Ask the one question the returns counter cannot process: is this thing wrong, or is it merely unwanted?
 
 A wrong thing goes back. An unwanted thing fits, works, and was chosen by someone thinking of you; its only fault is that you would have chosen otherwise. That is not a defect. That is the ordinary shape of being given something.
 
-The Calendar sets aside one day for this, the day after the winter feast, when the Angel returns nothing at all. But the day is a drill; the practice is the other three hundred and sixty-four. An unwanted thing can be kept, or worn once to the giver's table, or carried to the donation bin, where it will be exactly right for someone who will never need to explain why.
+There is one day in the year, the Feast of the Keepers, the day after the winter feast, on which the Angel returns nothing at all. But that day is a drill; the practice is the other three hundred and sixty-four. An unwanted thing can be kept, or worn once to the giver's table, or carried to the donation bin, where it will be exactly right for someone who will never need to explain why.
 
 Each of these is a return that is not made, and a Keeper who never hears about the wedding.
 

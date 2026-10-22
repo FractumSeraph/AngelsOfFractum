@@ -21,7 +21,7 @@ The Ledger is your answer. Not for pride. For proof that you were here, and that
 
 Three kinds of entries.
 
-**Cracks closed.** Any Minor Breach mended, any Mission completed, any Edict kept at cost to yourself. One line each. "Returned two carts, Tuesday." "Turned the car around at 9:41." "Texted M. after eight months. She wrote back."
+**Cracks closed.** Any Minor Breach mended, any Mission completed, any Edict kept at cost to yourself. One line each. "Returned two carts, Thursday." "Turned the car around at 9:41." "Texted M. after eight months. She wrote back."
 
 **Time given.** Hours of your life spent on mending that someone else needed: the shift at the pantry, the afternoon at the community garden's broken gate, the hour on hold with the utility company beside a neighbor who could not face it alone. Record the hours honestly. Round down.
 
@@ -37,10 +37,10 @@ Telling us is optional and anonymous. There is no form. You say a number to anot
 
 ## The rules of the Ledger
 
-- **It is private.** Showing it to another person for admiration is Fractum Personalis in its most paper-based form. Showing it to another Angel for guidance is permitted.
+- **It is private.** Showing it to another person for admiration turns the proof into a trophy, and the Ledger does not survive the conversion. Showing it to another Angel for guidance is permitted.
 - **It is honest.** Do not record a mending you did not finish. The Ledger records the follow-through, not the intention.
 - **It is brief.** One line per entry. The Angel who writes three paragraphs about a returned cart has begun to perform, and the audience is themselves.
-- **It is kept.** Daily is best. Weekly is acceptable. Monthly is a Sacred Moon Cycle of forgetting; you will not remember Tuesday.
+- **It is kept.** Daily is best. Weekly is acceptable. Monthly is a Sacred Moon Cycle of forgetting; you will not remember the ninth.
 - **It is not compared.** Your Ledger is not longer or shorter than anyone's. It is yours.
 
 ## The template
@@ -64,7 +64,7 @@ The first page may read:
 
 **Hours given this cycle:** ____.
 
-That is the entire template. It fits on an index card. Most things worth doing do.
+There is nothing more to it. It fits on an index card. Most things worth doing do.
 
 ## When the Ledger is full
 
