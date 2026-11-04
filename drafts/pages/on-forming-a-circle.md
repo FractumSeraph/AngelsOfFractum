@@ -70,7 +70,7 @@ An Angel may leave a Circle at any time, for any reason, without explanation, an
 - Someone has been told to stop seeing someone.
 - The Mending has become optional and the talking has not.
 - The Count is kept by name.
-- Anyone has been called the founder.
+- A Circle has formed around a person rather than around the work.
 
 If you see these, you have seen a break. Leave, and mend elsewhere. Then tell us, so that we may say again what we are not.
 
