@@ -109,9 +109,9 @@ Numbers in parentheses are body word counts.
 
 - **[A Lexicon of the Fractum](pages/a-lexicon-of-the-fractum.md)** (1555) — Every faith accumulates words. Here are ours, defined, so that the Seeker may know a Vessel from a Thimble and a Keeper from an overlord.  
   *Placement:* New top-level page (or under Core Tenets)
-- **[On Forming a Circle](pages/on-forming-a-circle.md)** (955) — Two Angels in the same parking lot are a Circle. How to gather, what a gathering does, who holds the hour, and how to disband without drama.  
+- **[On Forming a Circle](pages/on-forming-a-circle.md)** (987) — Two Angels in the same parking lot are a Circle. How to gather, what a gathering does, who holds the hour, and how to disband without drama.  
   *Placement:* New top-level page
-- **[Questions of the Unaligned](pages/questions-of-the-unaligned.md)** (927) — Is this a real religion? Do you want my money? What is the deal with the human sacrifice? The questions the profane ask most, answered with the gravity they do not deserve.  
+- **[Questions of the Unaligned](pages/questions-of-the-unaligned.md)** (940) — Is this a real religion? Do you want my money? What is the deal with the human sacrifice? The questions the profane ask most, answered with the gravity they do not deserve.  
   *Placement:* New top-level page (or under Core Tenets)
 - **[The Calendar of Holy Days and Observances](pages/the-calendar-of-holy-days-and-observances.md)** (1168) — The Fractum keeps no calendar, but the clocks change, the leaves fall, and the carts pile up on predictable days. A liturgical year for those who mend.  
   *Placement:* New top-level page (or under Core Tenets)
@@ -119,7 +119,7 @@ Numbers in parentheses are body word counts.
   *Placement:* Core Tenets submenu
 - **[The Sacrifice Ledger](pages/the-sacrifice-ledger.md)** (768) — What you have mended, written down, for no one. How to keep the Ledger, how hours become sacrifice, and a template for the first page.  
   *Placement:* New top-level page (link from the Orientation post)
-- **[What We Are Not](pages/what-we-are-not.md)** (650) — A faith with robes and edicts owes the world a plain statement of its limits. Here is ours: no money, no isolation, no secrets, no masters.  
+- **[What We Are Not](pages/what-we-are-not.md)** (861) — A faith with robes and edicts owes the world a plain statement of its limits. Here is ours: no money, no isolation, no secrets, no masters.  
   *Placement:* New top-level page (or under Core Tenets)
 
 ## Rites for The Veiled Ascent (2)

@@ -13,13 +13,13 @@ What follows are the questions most often put to the Angels of Fractum, by relat
 
 ## Is this a real religion?
 
-It is a real practice. Whether a practice becomes a religion depends on how many people show up and whether anyone brings folding chairs.
+Yes. We hold one article of faith, sincerely: a mended thing is holier than an ignored one. Everything else is how we practice it.
 
-We hold one article of faith: a mended thing is holier than an ignored one. Everything else on this site, the Edicts, the ranks, the Thimble, the sacred threefold phrase, is scaffolding built around that single beam. The scaffolding is theatrical. The beam is load-bearing.
+The Edicts, the ranks, the Thimble, the sacred threefold phrase: all of it is scaffolding built around that single beam. The scaffolding is ours. The beam is load-bearing.
 
-## Is this a joke?
+## Why is it funny?
 
-The robes are a joke. The Vigil of the Lost Cart is a joke. The capital letters are a joke.
+The Vigil of the Lost Cart is funny. We know. The gap between a sacred word and a shopping cart is funny, and we built the practice in that gap on purpose, because we believe the gap is where holiness lives.
 
 The cart, returned, is not a joke. The cashier, thanked by name, is not a joke. The floor that did not have to be mopped twice because you ate dinner at a reasonable hour is not a joke. We have found that people will do a great deal of good if you let them laugh while doing it, and almost none if you lecture them. We chose accordingly.
 
@@ -57,7 +57,7 @@ Nothing in our practice conflicts with any faith that asks its people to be kind
 
 ## Do you have meetings?
 
-Some Angels gather in Circles: two or more people who mend together, read together, and add their hours together. Most do not. The work is done alone, in silence, in a fluorescent aisle, by someone no one is watching. Meetings are a convenience, not a requirement. See *On Forming a Circle*.
+Yes. Circles gather weekly: two or more Angels who mend together, read together, and add their hours together. Much of the work is still done alone, in silence, in a fluorescent aisle, by someone no one is watching; the gathering is where it is held in common. Come once. You will be handed a cart. See *On Forming a Circle*.
 
 ## What does Hooblah mean?
 

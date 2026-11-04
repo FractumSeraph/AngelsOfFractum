@@ -7,7 +7,7 @@ suggested_tags: [circle, community, practice]
 status: draft
 ---
 
-The faith is designed to be practiced alone. Most Angels will never meet another and will lose nothing by it; the corral does not ask whether you came with friends.
+Much of the work is done alone, in a fluorescent aisle, by someone no one is watching. But the faith is held in common and kept in Circles: Angels who gather weekly to mend, to read, and to count. If there is a Circle near you, go. If not, this page is how to begin one.
 
 But two Angels in the same parking lot are a Circle, and some find that the work holds better when it is witnessed by one other person who also wants no credit. This page is for them.
 

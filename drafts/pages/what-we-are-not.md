@@ -13,7 +13,7 @@ A faith that borrows the furniture of a cult owes the world a plain statement, i
 
 ## We do not want your money
 
-Not now, not later, not at a higher rank. There is no tithe, no dues, no suggested donation, no store. The longer answer is in *Questions of the Unaligned*. It is the same answer.
+Not now, not later, not at a higher rank. There is no tithe, no dues, no suggested donation, no store. The corporation that holds our name has a bank account, because filing fees, insurance, and gloves cost money. It will never ask you for any. If someone gives anyway, the gift is recorded, spent only on the work, and reported to the congregation once a year, down to the dollar. The longer answer is in *Questions of the Unaligned*. It is the same answer.
 
 If you have money to give, give it to the food pantry, the library, the shelter. Write it in your Ledger as mending. It is.
 
@@ -51,12 +51,14 @@ The Hand mends. It does not scold. We do not want you to lecture the Blocker, ho
 
 ## We do not keep records of you
 
-The Sacrifice Ledger is yours. We never see it. There is no roster of Angels, no register of who holds which rank, no map of Circles. Stop practicing tomorrow and no one will call.
+The Sacrifice Ledger is yours. We never see it. We do keep a calendar of gatherings and a count of how many came. If you ask, and only if you ask, your name goes in a register of members, and you may have it removed on request. The Church also keeps a list of the people it has licensed or ordained to perform its rites, because it must be able to say who may act in its name. No one's hours, Ledger, confession, or rank below that is ever recorded. We never keep your name against your hours.
+
+If you join an organized Mending in the Church's name, you sign a one-time volunteer waiver so that the Church can be insured; it is kept apart from everything else, for only as long as the insurer requires, and it is never used to count or contact you. Stop practicing tomorrow and no one will call.
 
 ## What we are
 
-Ordinary people who have agreed to see the small broken things and to fix the ones within reach. That is the entire organization. It has no address.
+Ordinary people who have agreed to see the small broken things and to fix the ones within reach. That is the entire organization. It is incorporated so that it can rent a room, buy gloves, and be insured; the corporation has an address, a board, and a bank account whose every dollar is reported to you once a year. The faith has none of these. It has a corral.
 
-The robes are a bit. The kindness is not.
+The robes are optional. The belief is not.
 
 Hooblah hooblah hooblah.
