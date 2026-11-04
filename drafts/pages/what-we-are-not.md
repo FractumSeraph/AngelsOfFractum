@@ -7,7 +7,7 @@ suggested_tags: [orientation, safety]
 status: draft
 ---
 
-We have robes. We have Edicts. We have a rank called the Unbroken Eye and a running count of Human Sacrifice. We are aware of how this looks.
+We have robes. We have Edicts. We have a rank called the Unbroken Eye and a running count we call the Hours of Sacrifice. We are aware of how this looks.
 
 A faith that borrows the furniture of a cult owes the world a plain statement, in plain words, of what it will never do. This is that statement. Hold us to it.
 
@@ -51,9 +51,9 @@ The Hand mends. It does not scold. We do not want you to lecture the Blocker, ho
 
 ## We do not keep records of you
 
-The Sacrifice Ledger is yours. We never see it. We do keep a calendar of gatherings and a count of how many came. If you ask, and only if you ask, your name goes in a register of members, and you may have it removed on request. The Church also keeps a list of the people it has licensed or ordained to perform its rites, because it must be able to say who may act in its name. No one's hours, Ledger, confession, or rank below that is ever recorded. We never keep your name against your hours.
+The Sacrifice Ledger is yours. We never see it. We do keep a calendar of gatherings and a count of how many came. If you ask, and only if you ask, your name goes in a register of members, and you may have it removed on request. The Angels of Fractum also keep a list of the people it has licensed or ordained to perform its rites, because it must be able to say who may act in its name. No one's hours, Ledger, confession, or rank below that is ever recorded. We never keep your name against your hours.
 
-If you join an organized Mending in the Church's name, you sign a one-time volunteer waiver so that the Church can be insured; it is kept apart from everything else, for only as long as the insurer requires, and it is never used to count or contact you. Stop practicing tomorrow and no one will call.
+If you join an organized Mending in the name of the Angels of Fractum, you sign a one-time volunteer waiver so that the work can be insured; it is kept apart from everything else, for only as long as the insurer requires, and it is never used to count or contact you. Stop practicing tomorrow and no one will call.
 
 ## What we are
 

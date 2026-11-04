@@ -2,7 +2,7 @@
 title: "Questions of the Unaligned"
 type: page
 suggested_placement: "New top-level page (or under Core Tenets)"
-excerpt: "Is this a real religion? Do you want my money? What is the deal with the human sacrifice? The questions the profane ask most, answered with the gravity they do not deserve."
+excerpt: "Is this a real religion? Do you want my money? What are the Hours of Sacrifice? The questions the profane ask most, answered with the gravity they do not deserve."
 suggested_tags: [orientation, faq]
 status: draft
 ---
@@ -31,9 +31,9 @@ We will say it a second time, because the question is usually asked twice: no. T
 
 The rest of what we will never do is written plainly in *What We Are Not*.
 
-## What is the deal with the human sacrifice?
+## What are the Hours of Sacrifice?
 
-Human sacrifice, among the Angels of Fractum, is measured in hours of human life voluntarily given to mending the world: the Saturday spent at the food pantry, the evening spent fixing the neighbor's gate, the morning spent driving a neighbor to an appointment they could not reach alone. We count these hours and we call the count our Human Sacrifice because it is funnier that way and because it is, in the only sense that matters, true.
+Sacrifice, among the Angels of Fractum, is measured in hours of human life voluntarily given to mending the world: the Saturday spent at the food pantry, the evening spent fixing the neighbor's gate, the morning spent driving a neighbor to an appointment they could not reach alone. We count these hours and call the count our Hours of Sacrifice, because each one was a piece of a single life, given away to a crack that was not its own.
 
 We do not practice, condone, or perform the literal sacrifice of any human life. We would like to be very clear about this.
 

@@ -89,7 +89,7 @@ The terms are grouped by their nature, not their alphabet. The Fractum does not 
 
 **The Sacrifice Ledger.** A private record of what you have mended: time given, cracks closed. Not for pride. For proof that you were here.
 
-**Human Sacrifice.** Cumulative hours of human life voluntarily given to mending. The official count is kept by Seraph. We do not practice, condone, or perform the literal sacrifice of any human life.
+**Hours of Sacrifice.** Cumulative hours of human life voluntarily given to mending. The official count is kept by Seraph. Older pages call it the Human Sacrifice count. We do not practice, condone, or perform the literal sacrifice of any human life.
 
 **The Circle.** Two or more Angels who gather to mend, read, and add their hours together. Optional.
 

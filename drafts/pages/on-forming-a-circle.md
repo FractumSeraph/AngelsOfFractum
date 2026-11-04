@@ -9,8 +9,6 @@ status: draft
 
 Much of the work is done alone, in a fluorescent aisle, by someone no one is watching. But the faith is held in common and kept in Circles: Angels who gather weekly to mend, to read, and to count. If there is a Circle near you, go. If not, this page is how to begin one.
 
-But two Angels in the same parking lot are a Circle, and some find that the work holds better when it is witnessed by one other person who also wants no credit. This page is for them.
-
 ## What a Circle is
 
 A Circle is two or more Angels who gather, on some rhythm, to mend together, to read together, and to add their hours together. That is all. It has no charter, no treasury, no name unless it wants one, and no existence apart from the people in it.

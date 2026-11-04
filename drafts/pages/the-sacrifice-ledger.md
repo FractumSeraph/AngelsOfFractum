@@ -31,7 +31,7 @@ Failures may also be recorded. "Went through the drive-thru at 9:52. Said I was 
 
 ## How hours become Sacrifice
 
-When the Angels of Fractum report that our Human Sacrifice count has risen, we are reporting the sum of hours of human life voluntarily given to mending the world, as Angels have chosen to tell us. One hour given is one hour sacrificed. We call it sacrifice because it was: you had one life, and you spent an hour of it on a crack that was not yours.
+When the Angels of Fractum report that our Hours of Sacrifice have risen, we are reporting the sum of hours of human life voluntarily given to mending the world, as Angels have chosen to tell us. One hour given is one hour sacrificed. We call it sacrifice because it was: you had one life, and you spent an hour of it on a crack that was not yours.
 
 Telling us is optional and anonymous. There is no form. You say a number to another Angel, out loud, once, and it is added and your name is not. We do not practice, condone, or perform the literal sacrifice of any human life. We would prefer not to keep saying this. The unaligned keep asking.
 
